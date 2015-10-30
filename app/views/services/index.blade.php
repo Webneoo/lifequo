@@ -144,19 +144,16 @@
 			</div>
 		</div>
 		<div class="col-md-6 col-md-push-6">
-			<img class="img-responsive" src="../images/services/property-management.jpg" alt="Property Management and maintenance">
+			<img class="img-responsive" src="../images/services/property-management.png" alt="Property Management and maintenance">
 		</div>
 	</div>
 
 	<div id="quality" class="row">
 		<span class="line hidden-xs" style="margin: 40px 0 0 -410px;"></span><h1>Quality and cost control</h1><span class="line hidden-xs" style="margin: -68px 0 0 250px;"></span>
 		<p>Our team handles all issues related to quality and cost control for all real estate properties and construction sites. We monitor quality and ensure compliance to contracts, governmental requirements and other legal agreements. We track and ensure cost-efficiency throughout all operations pertaining to the management of residential and commercial properties, as well as review, discuss and negotiate all upcoming offers.</p>
-		<div class="col-md-6 hidden-sm hidden-xs">
-			<img class="img-responsive" src="../images/services/quality-cost.jpg" alt="Quality and cost control">
-		</div>
 		<div class="col-md-6 service-desc">
-			<i class="fa fa-money fa-4x"></i>
-			<p>Our quality and cost control services include but are not limited to:<br>
+			<i class="fa fa-money fa-4x"></i><br><br>
+			<p>Our quality and cost control services include but are not limited to:<br><br>
 			- Establish timely, accurate and complete billings, as well as undertake cost containment procedures<br>
 			- Enforce timely submissions of invoices and other contract data<br>
 			- Ensure compliance with contract requirements<br>
@@ -168,8 +165,8 @@
 			- Identify problems early-on and set in place efficient problem solving strategies<br>
 			- Qualified employees holding the Six Sigma and Project Management Professional (PMP) certificates</p>
 		</div>
-		<div class="col-md-6 hidden-lg hidden-md">
-			<img class="img-responsive" src="../images/services/quality-cost.jpg" alt="Quality and cost control">
+		<div class="col-md-6 col-md-push-6">
+			<img class="img-responsive" src="../images/services/quality-cost.png" alt="Quality and cost control">
 		</div>
 	</div>
 
@@ -177,8 +174,8 @@
 		<span class="line hidden-xs" style="margin: 40px 0 0 -500px;"></span><h1>Management of hospitality services</h1><span class="line hidden-xs" style="margin: -68px 0 0 345px;"></span>
 		<p>At LifeQuo, in addition to securing a high quality of life, we aim to create a luxurious life style. We will be responsible for organizing, supervising and controlling all third-party providers of hospitality management services that you require at your residential and commercial properties.</p>
 		<div class="col-md-6 service-desc">
-			<i class="fa fa-black-tie fa-4x"></i>
-			<p>Our responsibilities include but are not limited to:<br>
+			<i class="fa fa-black-tie fa-4x"></i><br><br>
+			<p>Our responsibilities include but are not limited to:<br><br>
 			- Undertake daily management and on-site maintenance tasks<br>
 			- Identify and anticipate guest needs<br>
 			- Perform quality and cost control<br>
@@ -188,8 +185,8 @@
 			- Develop and monitor reporting<br>
 			- Employ hospitality management providers</p>
 		</div>
-		<div class="col-md-6">
-			<img class="img-responsive" src="../images/services/hospitality.jpg" alt="Management of hospitality services">
+		<div class="col-md-6 col-md-push-6">
+			<img class="img-responsive" src="../images/services/hospitality.png" alt="Management of hospitality services">
 		</div>
 	</div>
 </div>

@@ -429,7 +429,18 @@ body { font-family: 'Open Sans', sans-serif; }
 	padding: 30px;
 	position: absolute;
 	z-index: 10;
+	max-width: 570px;
+	margin: 40px 0 0 90px;
+	box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
+	-o-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
+	-moz-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
+  	-webkit-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
 }
-#servicesCarousel .carousel-control {
-	background-image: none;
+#servicesCarousel .carousel-indicators li {
+	background-color: #333;
 }
+#our-services .line {
+	width: 100px;
+    margin: 20px 0 20px -51px;
+}
+#our-services i { margin-bottom: 10px; }
