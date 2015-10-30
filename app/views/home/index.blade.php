@@ -64,15 +64,15 @@
 			</div>
 
 			<div class="post-row item">
-				<a href="">
+				<a href="{{ route('services_path')}}#management">
 					<i class="fa fa-black-tie fa-4x"></i>
 					<h2>Hospitality & <br> Management services</h2>
 					<p>At LifeQuo, in addition to securing a high quality of life, we aim to create a luxurious life style.</p>
 				</a>
 			</div>
-
+our-services
 			<div class="post-row item">
-				<a href="">
+				<a href="{{ route('services_path')}}#our-services">
 					<i class="fa fa-users fa-4x"></i>
 					<h2>Common Area <br> Services</h2>
 					<p>We offer superior quality services for entire residential properties and commercial real estate.</p>
@@ -80,7 +80,7 @@
 			</div>
 
 			<div class="post-row item">
-				<a href="">
+				<a href="{{ route('services_path')}}#our-services">
 					<i class="fa fa-user-secret fa-4x"></i>
 					<h2>Private Area <br> Services</h2>
 					<p>Ensure your residence or commercial property is maintained to the highest standard of engineering and care, which will increase the property’s life-span, and in-turn, its value.</p>
@@ -88,7 +88,7 @@
 			</div>
 
 			<div class="post-row item">
-				<a href="">
+				<a href="{{ route('services_path')}}#our-services">
 					<i class="fa fa-cogs fa-4x"></i>
 					<h2>Mechanical, Electrical, <br> & Plumbing (MEP)</h2>
 					<p>With the required technical expertise, legal know-how we cover all mechanical, electrical, and plumbing maintenance work.</p>
@@ -96,7 +96,7 @@
 			</div>
 
 			<div class="post-row item">
-				<a href="">
+				<a href="{{ route('services_path')}}#our-services">
 					<i class="fa fa-map fa-4x"></i>
 					<h2>Landscaping</h2>
 					<p>Soft or Hard landscaping, Irrigation systems and Regular maintenance</p>
