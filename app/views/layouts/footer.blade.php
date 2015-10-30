@@ -15,7 +15,7 @@
 			<a href="{{ route('privacy_path') }}">Privacy Policy</a>
 		</div>
 		<div class="col-sm-3 col-md-2">
-			<a href="#" target="_blank" style="margin-right:6px;"><i class="fa fa-facebook fa-2x"></i></a>
+			<a href="https://www.facebook.com/LifeQuo/" target="_blank" style="margin-right:6px;"><i class="fa fa-facebook fa-2x"></i></a>
 			<div id="SkypeButton_Call_lifequo_1">
 			  <script type="text/javascript">
 			    Skype.ui({
