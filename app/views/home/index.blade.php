@@ -174,6 +174,7 @@ our-services
 			</div>
 		</div>
 	</div>
+	<br/>
 	<div class="row all">
 		<a href="{{ route('portfolio_path') }}">View all work <i class="fa fa-arrow-right"></i></a>
 	</div>
