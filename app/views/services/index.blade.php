@@ -13,7 +13,7 @@
 			<p>LifeQuo is your one stop source for property and hospitality management. We provide a wide array of services ranging from Property Management & Maintenance; to Quality & Cost-Control; to Management of Hospitality Services provided by third-parties. </p>
 			<p>We ensure your property integrates the latest technologies and innovations in the market, including eco-friendly renewable energy house and water heating solutions.</p>
 			<br><br>
-			<p><a class="green-btn" href="pdf/catalog.php">Download Catalog </a></p>
+			<p><a class="green-btn" href="pdf/catalog.pdf">Download Catalog </a></p>
 		</div>
 		<div class="col-md-5 hidden-sm hidden-xs">
 			<img class="img-responsive" src="../images/services/services.jpg" alt="Services Picture" width="100%">
