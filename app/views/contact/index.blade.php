@@ -32,7 +32,7 @@
 					  <i class="fa fa-circle fa-stack-2x"></i>
 					  <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
 					</span>
-					<p>helpdesk@lifequo.com</p>
+					<p><a href="mailto:helpdesk@lifequo.com" target="_top"> helpdesk@lifequo.com </a></p>
 				</div>
 			</div>
 			<div class="col-sm-6">

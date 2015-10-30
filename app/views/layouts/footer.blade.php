@@ -9,7 +9,7 @@
 			<p><strong>Phone: </strong> +961 1 324 180 </p>
 		</div>
 		<div class="col-sm-6 col-md-3">
-			<p><strong>Contact: </strong><a href="mailto:info@webneoo.com" target="_top"> helpdesk@lifequo.com </a></p>
+			<p><strong>Contact: </strong><a href="mailto:helpdesk@lifequo.com" target="_top"> helpdesk@lifequo.com </a></p>
 		</div>
 		<div class="col-sm-4 col-md-2 privacy">
 			<a href="{{ route('privacy_path') }}">Privacy Policy</a>
