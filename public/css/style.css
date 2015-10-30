@@ -455,6 +455,10 @@ body { font-family: 'Open Sans', sans-serif; }
 #our-services i { margin-bottom: 10px; }
 .space { height: 400px; }
 
+#services:hover
+{
+cursor:move;
+}
 
 /* -------------- MOBILE APP -------------- */
 #mobile-app {
