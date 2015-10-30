@@ -56,7 +56,7 @@
         <div class="all-services custom-carousel touch-carousel" data-appeared-items="4">
 
 			<div class="item">
-				<a href="">
+				<a href="{{ route('services_path')}}#quality">
 					<i class="fa fa-money fa-4x"></i>
 					<h2>Quality & Cost <br> Control</h2>
 					<p>Our team handles all issues related to quality and cost control for all real estate properties and construction sites.</p>
