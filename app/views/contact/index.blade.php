@@ -2,6 +2,9 @@
 
 <link rel="stylesheet" href="/css/bootstrap-datetimepicker.css">
 
+@section('title', 'LifeQuo - Contact Us')
+@section('robots', 'INDEX,FOLLOW')
+
 @section('content')
 
 <div id="contact" class="container">

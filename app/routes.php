@@ -26,10 +26,63 @@ Route::get('/services', [
     'uses' => 'ServicesController@index'
 ]);
 
+
+// PORTFOLIO
 Route::get('/portfolio', [
     'as' => 'portfolio_path',
     'uses' => 'PortfolioController@index'
 ]);
+
+Route::get('/portfolio/oakridge', [
+    'as' => 'oakridge_path',
+    'uses' => 'PortfolioController@oakridge'
+]);
+
+Route::get('/portfolio/kampai-catering', [
+    'as' => 'kampai_path',
+    'uses' => 'PortfolioController@kampai'
+]);
+
+Route::get('/portfolio/saifi-pearl', [
+    'as' => 'saifipearl_path',
+    'uses' => 'PortfolioController@saifipearl'
+]);
+
+Route::get('/portfolio/the-palladium', [
+    'as' => 'palladium_path',
+    'uses' => 'PortfolioController@palladium'
+]);
+
+Route::get('/portfolio/the-pavillions', [
+    'as' => 'pavillions_path',
+    'uses' => 'PortfolioController@pavillions'
+]);
+
+Route::get('/portfolio/capital-gardens', [
+    'as' => 'capitalgardens_path',
+    'uses' => 'PortfolioController@capitalgardens'
+]);
+
+Route::get('/portfolio/atrium', [
+    'as' => 'atrium_path',
+    'uses' => 'PortfolioController@atrium'
+]);
+
+Route::get('/portfolio/monot-38', [
+    'as' => 'monot_path',
+    'uses' => 'PortfolioController@monot'
+]);
+
+Route::get('/portfolio/park-tower', [
+    'as' => 'parktower_path',
+    'uses' => 'PortfolioController@parktower'
+]);
+
+Route::get('/portfolio/saifi-suites', [
+    'as' => 'saifisuites_path',
+    'uses' => 'PortfolioController@saifisuites'
+]);
+
 
 Route::get('/faq', [
     'as' => 'faq_path',
@@ -49,4 +102,9 @@ Route::post('/contact', [
 Route::get('/privacy-policy', [
     'as' => 'privacy_path',
     'uses' => 'PrivacyController@index'
+]);
+
+Route::get('/mobile-application', [
+    'as' => 'application_path',
+    'uses' => 'ApplicationController@index'
 ]);

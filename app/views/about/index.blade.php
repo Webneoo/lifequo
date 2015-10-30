@@ -1,5 +1,8 @@
 @extends('layouts.default')
 
+@section('title', 'LifeQuo - About Us')
+@section('robots', 'INDEX,FOLLOW')
+
 @section('content')
 
 <!--     ABOUT     -->
@@ -76,24 +79,24 @@
 	<div class="container">
 		<span class="line hidden-xs" style="margin:94px auto auto -320px; background-color:#fff"></span><h1>Our <strong>Clients </strong></h1><span class="line hidden-xs" style="margin:-60px auto auto 165px; background-color:#fff"></span>
 		<div class="row clients">
-			<div class="col-md-4 col-sm-4 col-xs-6">
+			<a href="{{ route('pavillions_path') }}" class="col-md-4 col-sm-4 col-xs-6">
 				<img class="img-responsive" src="../images/clients/pavilions.png" alt="The Pavilions Logo">
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-6">
+			</a>
+			<a href="{{ route('palladium_path') }}" class="col-md-4 col-sm-4 col-xs-6">
 				<img class="img-responsive" src="../images/clients/palladium.png" alt="The Palladium Logo">
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-6">
+			</a>
+			<a href="{{ route('capitalgardens_path') }}" class="col-md-4 col-sm-4 col-xs-6">
 				<img class="img-responsive" src="../images/clients/capital-gardens.png" alt="The Capital Gardens Logo">
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-6">
+			</a>
+			<a href="{{ route('atrium_path') }}" class="col-md-4 col-sm-4 col-xs-6">
 				<img class="img-responsive" src="../images/clients/atrium.jpg" alt="The Atrium Logo">
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-6">
+			</a>
+			<a href="{{ route('saifipearl_path') }}" class="col-md-4 col-sm-4 col-xs-6">
 				<img class="img-responsive" src="../images/clients/saifipearl.png" alt="Saifi Pearl Logo">
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-6">
+			</a>
+			<a href="{{ route('oakridge_path') }}" class="col-md-4 col-sm-4 col-xs-6">
 				<img class="img-responsive" src="../images/clients/oakridge.png" alt="Oakridge Logo">
-			</div>
+			</a>
 		</div>
 	</div>
 </div>

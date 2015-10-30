@@ -1,5 +1,8 @@
 @extends('layouts.default')
 
+@section('title', 'LifeQuo')
+@section('robots', 'INDEX,FOLLOW')
+
 @section('content')
 
 <!--     CAROUSEL     -->
@@ -139,7 +142,7 @@
 	           <h1>Oakridge</h1>
 	           <span class="line"></span>
 	           <p>The Residences consist of one level of garden simplexes and two levels of terrace residences. The areas of these attractive residences ensure residents have ample space to relax and entertain.</p>
-	           <a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+	           <a class="info" href="{{ route('oakridge_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 	        </div>
 		</div>
 		<div class="col-md-6 col-sm-12">
@@ -148,7 +151,7 @@
 				<div class="overlay">
 		           <h1>Kampai Catering</h1>
 		           <span class="line"></span>
-		           <a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		           <a class="info" href="{{ route('kampai_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 			<div class="row">
@@ -157,7 +160,7 @@
 					<div class="overlay">
 			           <h1>Monot 38</h1>
 			           <span class="line"></span>
-			           <a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+			           <a class="info" href="{{ route('monot_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 			        </div>
 				</div>
 				<div class="col-sm-6 project">
@@ -165,7 +168,7 @@
 					<div class="overlay">
 			           <h1>Atrium</h1>
 			           <span class="line"></span>
-			           <a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+			           <a class="info" href="{{ route('atrium_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 			        </div>
 				</div>
 			</div>

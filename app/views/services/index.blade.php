@@ -1,5 +1,8 @@
 @extends('layouts.default')
 
+@section('title', 'LifeQuo - Services')
+@section('robots', 'INDEX,FOLLOW')
+
 @section('content')
 
 <!--     SERVICES     -->
@@ -14,24 +17,24 @@
 		</div>
 		<div class="col-md-5 hidden-sm hidden-xs">
 			<img class="img-responsive" src="../images/services/services.jpg" alt="Services Picture" width="100%">
-		</div>
+		</div><br>
 	</div>
 </div>
 
 <div id="our-services"  class="container">
 	<div id="property" class="row">
-		<span class="line hidden-xs" style="margin: 40px 0 0 -535px;"></span><h1>Property management and maintenance</h1><span class="line hidden-xs" style="margin: -68px 0 0 380px;"></span>
+		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -535px;"></span><h1>Property management and maintenance</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 380px;"></span>
 		<p>We at LifeQuo are responsible for the upkeep of your entire estate, meeting highest standards to maintain a safe and attractive property. With the required technical expertise, legal know-how, and extensive management skills, we cover all management and maintenance work in residential and commercial complexes and buildings, including flats, chalets, hotel suites, rooms and common areas, as well as offices and other properties.
 		<br>Find all your property management and maintenance needs here at LifeQuo!</p>
 		<p><strong>We offer superior quality services for entire residential properties and commercial real estate.</strong></p>
-		<div class="col-md-6 service-desc">
+		<div class="col-md-6 col-xs-10 col-xs-pull-1 col-md-pull-5 service-desc">
 			<div id="servicesCarousel" class="carousel slide" data-ride="carousel">
 			    <!-- Indicators -->
 			    <ol class="carousel-indicators">
 			      <li data-target="#servicesCarousel" data-slide-to="0" class="active"></li>
 			      <li data-target="#servicesCarousel" data-slide-to="1"></li>
 			      <li data-target="#servicesCarousel" data-slide-to="2"></li>
-			      <li data-target="#servicesCarousel" data-slide-to="4"></li>
+			      <li data-target="#servicesCarousel" data-slide-to="3"></li>
 			      <li data-target="#servicesCarousel" data-slide-to="4"></li>
 			    </ol>
 
@@ -39,9 +42,8 @@
 			    <div class="carousel-inner" role="listbox">
 
 			      <div class="item active">
-			        <i class="fa fa-users fa-4x"></i>
-					<h2>Common Area Services</h2>
-					<span class="line"></span>
+			        <i class="fa fa-users fa-4x hidden-md"></i>
+					<h2>Common Area Services</h2><br>
 					<p>- Manage the accounts and finances of real estate properties <br>
 					- Review and manage maintenance policies to enhance efficiency<br>
 					- Provide preventive, corrective, and condition-based maintenance<br>
@@ -52,9 +54,8 @@
 			      </div>
 
 			      <div class="item">
-			        <i class="fa fa-user-secret fa-4x"></i>
-					<h2>Private Area Services</h2>
-					<span class="line"></span>
+			        <i class="fa fa-user-secret fa-4x hidden-md"></i>
+					<h2>Private Area Services</h2><br>
 					<h3><em>Swift Expert Services</em></h3>
 					<em>- Heat, Ventilation and Air Conditioning (HVAC) system<br>
 					- Plumbing<br>
@@ -74,7 +75,7 @@
 					- Liaising with utility companies <br>
 					- Obtaining cost effect quotes for maintenance<br>
 					- No hidden fees <br>
-					- A personalized service tailored to your needs</p>
+					- A personalized service tailored to your needs</p><br>
 					<h3>IT Services:</h3>
 					<p>- Network and connectivity maintenance<br>
 					- Hardware and software troubleshooting<br>
@@ -84,9 +85,8 @@
 			      </div>
 
 			      <div class="item">
-			        <i class="fa fa-cogs fa-4x"></i>
-					<h2>Mechanical, Electrical <br> & Plumbing (MEP)</h2>
-					<span class="line"></span>
+			        <i class="fa fa-cogs fa-4x hidden-md"></i>
+					<h2>Mechanical, Electrical <br> & Plumbing (MEP)</h2><br>
 					<h3>Electrical Works:</h3>
 					<h4>Equipment:</h4>
 					<p>- Parking control equipment</p>
@@ -105,10 +105,10 @@
 					<h4>Electronic safety & security:</h4>
 					<p>- Video surveillance (CCTV)<br>
 					- Addressable fire alarm system<br>
-					- Carbon monoxide detection system</p>
+					- Carbon monoxide detection system</p><br>
 					<h3>Mechanical Works:</h3>
 					<p>- Fire suppression<br>
-					- Heating/Ventilation/AC (HVAC)</p>
+					- Heating/Ventilation/AC (HVAC)</p><br>
 					<h3>Plumbing works:</h3>
 					<p>- Plumbing insulation<br>
 					- Domestic water piping<br>
@@ -122,8 +122,7 @@
 
 			      <div class="item">
 			        <i class="fa fa-map fa-4x"></i>
-					<h2>Landscaping</h2>
-					<span class="line"></span>
+					<h2>Landscaping</h2><br>
 					<p>- Soft/Hard landscaping<br>
 					- Irrigation systems<br>
 					- Regular maintenance</p>
@@ -131,8 +130,7 @@
 
 			      <div class="item">
 			        <i class="fa fa-life-ring fa-4x"></i>
-					<h2>Security, Safety <br>& Hygienic services</h2>
-					<span class="line"></span>
+					<h2>Security, Safety <br>& Hygienic services</h2><br>
 					<p>- Ensure compliance with security and life safety standards<br>
 					- Report any unusual incidents or hazardous conditions<br>
 					- Monitor security desk consoles (employee access control and alarm computer, CCTV video monitors, DVRs)<br>
@@ -144,15 +142,15 @@
 			</div>
 		</div>
 		<div class="col-md-6 col-md-push-6">
-			<img class="img-responsive" src="../images/services/property-management.png" alt="Property Management and maintenance">
+			<img src="../images/services/property-management.png" alt="Property Management and maintenance">
 		</div>
 	</div>
-
+	
 	<div id="quality" class="row">
-		<span class="line hidden-xs" style="margin: 40px 0 0 -410px;"></span><h1>Quality and cost control</h1><span class="line hidden-xs" style="margin: -68px 0 0 250px;"></span>
+		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -410px;"></span><h1>Quality and cost control</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 250px;"></span>
 		<p>Our team handles all issues related to quality and cost control for all real estate properties and construction sites. We monitor quality and ensure compliance to contracts, governmental requirements and other legal agreements. We track and ensure cost-efficiency throughout all operations pertaining to the management of residential and commercial properties, as well as review, discuss and negotiate all upcoming offers.</p>
-		<div class="col-md-6 service-desc">
-			<i class="fa fa-money fa-4x"></i><br><br>
+		<div class="col-md-6 col-xs-10 col-xs-pull-1 col-md-pull-5 service-desc">
+			<i class="fa fa-money fa-4x"></i><br>
 			<p>Our quality and cost control services include but are not limited to:<br><br>
 			- Establish timely, accurate and complete billings, as well as undertake cost containment procedures<br>
 			- Enforce timely submissions of invoices and other contract data<br>
@@ -165,16 +163,18 @@
 			- Identify problems early-on and set in place efficient problem solving strategies<br>
 			- Qualified employees holding the Six Sigma and Project Management Professional (PMP) certificates</p>
 		</div>
-		<div class="col-md-6 col-md-push-6">
-			<img class="img-responsive" src="../images/services/quality-cost.png" alt="Quality and cost control">
+		<div class="col-md-6 col-xs-12 col-md-push-6">
+			<img src="../images/services/quality-cost.png" alt="Quality and cost control">
 		</div>
 	</div>
 
+	<div style="hidden-lg hidden-md hidden-sm"><br><br></div>
+
 	<div id="management" class="row">
-		<span class="line hidden-xs" style="margin: 40px 0 0 -500px;"></span><h1>Management of hospitality services</h1><span class="line hidden-xs" style="margin: -68px 0 0 345px;"></span>
+		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -500px;"></span><h1>Management of hospitality services</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 345px;"></span>
 		<p>At LifeQuo, in addition to securing a high quality of life, we aim to create a luxurious life style. We will be responsible for organizing, supervising and controlling all third-party providers of hospitality management services that you require at your residential and commercial properties.</p>
-		<div class="col-md-6 service-desc">
-			<i class="fa fa-black-tie fa-4x"></i><br><br>
+		<div class="col-md-6 col-xs-10 col-xs-pull-1 col-md-pull-5 service-desc">
+			<i class="fa fa-black-tie fa-4x"></i><br>
 			<p>Our responsibilities include but are not limited to:<br><br>
 			- Undertake daily management and on-site maintenance tasks<br>
 			- Identify and anticipate guest needs<br>
@@ -186,7 +186,7 @@
 			- Employ hospitality management providers</p>
 		</div>
 		<div class="col-md-6 col-md-push-6">
-			<img class="img-responsive" src="../images/services/hospitality.png" alt="Management of hospitality services">
+			<img src="../images/services/hospitality.png" alt="Management of hospitality services">
 		</div>
 	</div>
 </div>

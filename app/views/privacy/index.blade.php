@@ -1,5 +1,8 @@
 @extends('layouts.default')
 
+@section('title', 'LifeQuo - Privacy Policy')
+@section('robots', 'INDEX,FOLLOW')
+
 @section('content')
 
 <img class="img-responsive" src="../images/privacy.png" alt="Privacy Policy Image" width="100%" height="200">

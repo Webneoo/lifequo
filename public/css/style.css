@@ -38,7 +38,7 @@ body { font-family: 'Open Sans', sans-serif; }
 
 /* -------------- FOOTER -------------- */
 #foot.container-fluid { max-width: 1370px; }
-#foot { margin-bottom: 20px; }
+#foot { margin: 20px auto; }
 #foot a {
 	text-decoration: none;
 	color: #333;
@@ -46,6 +46,13 @@ body { font-family: 'Open Sans', sans-serif; }
 #foot .privacy {
 	text-transform: uppercase;
 	margin-bottom: 10px;
+}
+#SkypeButton_Call_lifequo_1 img {
+	margin: -38px 0 0 0 !important;
+	vertical-align: 0 !important;
+	-webkit-filter: grayscale(1);
+	filter: grayscale(1);
+	float: right;
 }
 
 #content { margin: 80px auto 50px auto; }
@@ -247,6 +254,7 @@ body { font-family: 'Open Sans', sans-serif; }
 	color: #333;
 }
 #portfolio { margin: 120px auto; }
+#project { margin: 130px auto 50px auto; }
 
 /* ----- Work with us ----- */
 #work-with-us {
@@ -422,12 +430,12 @@ body { font-family: 'Open Sans', sans-serif; }
 	font-weight: 300;
 	margin-bottom: 50px;
 }
-#our-services p { max-width: 900px; margin: 0 auto 30px auto; }
-#our-services .row { margin-bottom: 60px; }
+#our-services p { max-width: 900px; margin: 30px auto;}
+#our-services .row { margin-bottom: 80px; }
 .service-desc {
 	background-color: #fff;
-	padding: 30px;
 	position: absolute;
+	padding: 30px 20px 0 20px;
 	z-index: 10;
 	max-width: 570px;
 	margin: 40px 0 0 90px;
@@ -436,11 +444,21 @@ body { font-family: 'Open Sans', sans-serif; }
 	-moz-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
   	-webkit-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
 }
-#servicesCarousel .carousel-indicators li {
-	background-color: #333;
-}
+#servicesCarousel .carousel-inner p:last-child { margin-bottom: 70px; }
+#servicesCarousel .carousel-inner p { margin: 0; }
+#servicesCarousel .carousel-inner h3, #servicesCarousel .carousel-inner h4 { margin: 5px auto; }
+#servicesCarousel .carousel-indicators li { background-color: #333; }
 #our-services .line {
 	width: 100px;
     margin: 20px 0 20px -51px;
 }
 #our-services i { margin-bottom: 10px; }
+.space { height: 400px; }
+
+
+/* -------------- MOBILE APP -------------- */
+#mobile-app {
+	margin: 120px auto 50px auto;
+	text-align: center;
+}
+.features .row { margin: 80px auto; }

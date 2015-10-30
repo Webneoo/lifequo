@@ -1,5 +1,8 @@
 @extends('layouts.default')
 
+@section('title', 'LifeQuo - FAQ')
+@section('robots', 'INDEX,FOLLOW')
+
 @section('content')
 
 <div id="faq" class="container">

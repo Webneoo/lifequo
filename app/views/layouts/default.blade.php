@@ -4,11 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>	LifeQuo </title>
+    <title> @yield('title') </title>
     <link rel="shortcut icon" href="/images/favicon.ico"/>
     <meta name="copyright" content="Webneoo SARL">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="/css/font-awesome.min.css">

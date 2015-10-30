@@ -1,5 +1,8 @@
 @extends('layouts.default')
 
+@section('title', 'LifeQuo - Portfolio')
+@section('robots', 'INDEX,FOLLOW')
+
 @section('content')
 
 <div id="portfolio" class="container">
@@ -8,7 +11,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/oakridge.jpg" alt="Oakridge Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('oakridge_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -21,7 +24,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/kampai.jpg" alt="Kampai Catering Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('kampai_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -36,7 +39,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/saifi-pearl.jpg" alt="Saifi Pearl Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('saifipearl_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -49,7 +52,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/the-palladium.jpg" alt="The Palladium Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('palladium_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -64,7 +67,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/the-pavillions.jpg" alt="The Pavillions Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('pavillions_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -77,7 +80,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/capital-gardens.jpg" alt="Capital Gardens Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('capitalgardens_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -92,7 +95,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/atrium.jpg" alt="Atrium Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('atrium_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -105,7 +108,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/monot.jpg" alt="Monot 38 Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('monot_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -120,7 +123,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/park-tower.jpg" alt="Park Tower Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('parktower_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
@@ -133,7 +136,7 @@
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/saifi-suites.jpg" alt="Saifi Suites Project">
 				<div class="overlay">
-		        	<a class="info" href="#"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('saifisuites_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
