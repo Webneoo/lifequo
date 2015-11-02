@@ -74,7 +74,11 @@ body { font-family: 'Open Sans', sans-serif; }
 }
 #homecarousel .carousel-caption h1 { font-family: 'Raleway', sans-serif;}
 #homecarousel .carousel-caption em { font-size: 20px;}
-#homecarousel .carousel-control { top: 68%; background-image: none; }
+#homecarousel .carousel-control {
+	top: 68%;
+	background-image: none;
+	color: #333;
+}
 
 /* ----- Services ----- */
 #services {
@@ -451,7 +455,7 @@ body { font-family: 'Open Sans', sans-serif; }
     margin: 20px 0 20px -51px;
 }
 #our-services i { margin-bottom: 10px; }
-.space { height: 400px; }
+.space { height: 300px; }
 
 
 /* -------------- MOBILE APP -------------- */

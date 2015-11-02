@@ -142,10 +142,11 @@
 			</div>
 		</div>
 		<div class="col-md-6 col-md-push-6">
-			<img src="../images/services/property-management.png" alt="Property Management and maintenance">
+			<img class="img-responsive hidden-xs" src="../images/services/property-management.png" alt="Property Management and maintenance">
+			<img class="img-responsive hidden-lg hidden-md hidden-sm" src="../images/services/property-management-xs.png" alt="Property Management and maintenance">
 		</div>
 	</div>
-	
+
 	<div id="quality" class="row">
 		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -410px;"></span><h1>Quality and cost control</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 250px;"></span>
 		<p>Our team handles all issues related to quality and cost control for all real estate properties and construction sites. We monitor quality and ensure compliance to contracts, governmental requirements and other legal agreements. We track and ensure cost-efficiency throughout all operations pertaining to the management of residential and commercial properties, as well as review, discuss and negotiate all upcoming offers.</p>
@@ -164,11 +165,10 @@
 			- Qualified employees holding the Six Sigma and Project Management Professional (PMP) certificates</p>
 		</div>
 		<div class="col-md-6 col-xs-12 col-md-push-6">
-			<img src="../images/services/quality-cost.png" alt="Quality and cost control">
+			<img class="img-responsive hidden-xs" src="../images/services/quality-cost.png" alt="Quality and cost control">
+			<img class="img-responsive hidden-lg hidden-md hidden-sm" src="../images/services/quality-cost-xs.png" alt="Quality and cost control">
 		</div>
 	</div>
-
-	<div style="hidden-lg hidden-md hidden-sm"><br><br></div>
 
 	<div id="management" class="row">
 		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -500px;"></span><h1>Management of hospitality services</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 345px;"></span>
@@ -186,7 +186,8 @@
 			- Employ hospitality management providers</p>
 		</div>
 		<div class="col-md-6 col-md-push-6">
-			<img src="../images/services/hospitality.png" alt="Management of hospitality services">
+			<img class="img-responsive hidden-xs" src="../images/services/hospitality.png" alt="Management of hospitality services">
+			<img class="img-responsive hidden-lg hidden-md hidden-sm" src="../images/services/hospitality-xs.png" alt="Management of hospitality services">
 		</div>
 	</div>
 </div>
