@@ -70,7 +70,7 @@
 					<p>At LifeQuo, in addition to securing a high quality of life, we aim to create a luxurious life style.</p>
 				</a>
 			</div>
-our-services
+
 			<div class="post-row item">
 				<a href="{{ route('services_path')}}#our-services">
 					<i class="fa fa-users fa-4x"></i>
@@ -141,13 +141,14 @@ our-services
 			<div class="overlay">
 	           <h1>Oakridge</h1>
 	           <span class="line"></span>
-	           <p>The Residences consist of one level of garden simplexes and two levels of terrace residences. The areas of these attractive residences ensure residents have ample space to relax and entertain.</p>
+	           <p class="hidden-xs">The Residences consist of one level of garden simplexes and two levels of terrace residences. The areas of these attractive residences ensure residents have ample space to relax and entertain.</p>
 	           <a class="info" href="{{ route('oakridge_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 	        </div>
 		</div>
 		<div class="col-md-6 col-sm-12">
 			<div class="row project">
-				<img class="img-responsive" src="../images/projects/kampai2.png" alt="Kampai Catering Project">
+				<img class="img-responsive hidden-xs" src="../images/projects/kampai2.png" alt="Kampai Catering Project">
+				<img class="img-responsive hidden-lg hidden-md hidden-sm" src="../images/projects/kampai.jpg" alt="Kampai Catering Project">
 				<div class="overlay">
 		           <h1>Kampai Catering</h1>
 		           <span class="line"></span>
