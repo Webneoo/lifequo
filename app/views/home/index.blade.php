@@ -124,7 +124,7 @@
 			<h1>Welcome to <br> <strong>our Website</strong></h1>
 			<p>Here at LifeQuo (sister company of Mouawad Projects), we help offer a superior living experience, from hassle and stress-free property maintenance, well-organized services, and cost-effective quality management. With qualified experts in all fields, we make managing various projects, properties, and venues a breeze. Sit back, relax and let us do all the work.</p>
 			<br>
-			<p>To get to know us a little bit more, visit <a class="green-btn" href="{{ route('about_path') }}">About <i class="fa fa-arrow-right"></i></a></p>
+			<p style="line-height: 1.8;">To get to know us a little bit more, visit <a class="green-btn" href="{{ route('about_path') }}">About <i class="fa fa-arrow-right"></i></a></p>
 		</div>
 		<div class="col-md-5 hidden-sm hidden-xs">
 			<img class="img-responsive" src="../images/building.jpg" alt="Architects pointing to a building">
