@@ -5,7 +5,7 @@
 
 @section('content')
 
-<img class="img-responsive" src="../images/privacy.png" alt="Privacy Policy Image" style="width:100%; height:200px">
+<img class="img-responsive" src="../images/privacy.png" alt="Privacy Policy Image" style="width:100%; max-height:200px">
 
 <div id="privacy" class="container">
 	<span class="line hidden-xs" style="margin:40px auto auto -300px"></span><h1>Privacy <strong>Policy</strong></h1><span class="line hidden-xs" style="margin:-69px auto auto 145px"></span>
