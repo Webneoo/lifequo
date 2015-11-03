@@ -9,8 +9,8 @@
     <meta name="copyright" content="Webneoo SARL">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
-
+    <script src="/js/skype-uri.js"></script>
+    
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -30,6 +30,7 @@
 
     @include('layouts.footer')
        
+   
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/owl.carousel.min.js"></script>
