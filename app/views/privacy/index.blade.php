@@ -5,7 +5,7 @@
 
 @section('content')
 
-<img class="img-responsive" src="../images/privacy.png" alt="Privacy Policy Image" width="100%" height="200">
+<img class="img-responsive" src="../images/privacy.png" alt="Privacy Policy Image" style="width:100%; height:200px">
 
 <div id="privacy" class="container">
 	<span class="line hidden-xs" style="margin:40px auto auto -300px"></span><h1>Privacy <strong>Policy</strong></h1><span class="line hidden-xs" style="margin:-69px auto auto 145px"></span>
@@ -18,7 +18,7 @@
 <div id="work-with-us" class="dark-bg">
 	<div class="container">
 		<span class="line hidden-xs" style="margin:70px auto auto -370px; background-color:#fff"></span><h1>Want to work with us ?</h1><span class="line hidden-xs" style="margin:-63px auto auto 220px; background-color:#fff"></span>
-		<a class="green-btn" href="{{ route('contact_path') }}">Get in touch <i class="fa fa-arrow-right"></i></a></p>
+		<a class="green-btn" href="{{ route('contact_path') }}">Get in touch <i class="fa fa-arrow-right"></i></a>
 	</div>
 </div>
 

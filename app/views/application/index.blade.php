@@ -10,17 +10,17 @@
 		<div class="col-md-4 col-xs-12 features">
 			<div class="row">
 				<i class="fa fa-user fa-4x"></i>
-				<span>
+				<div>
 					<strong>Quick contact</strong>
 					<p>Get in touch with us at the click of a button</p>
-				</span>
+				</div>
 			</div>
 			<div class="row">
 				<i class="fa fa-users fa-4x"></i>
-				<span>
+				<div>
 					<strong>Join the community</strong>
 					<p>Join our in-app community and share your experience with your neighbours</p>
-				</span>
+				</div>
 			</div>
 		</div>
 		<div class="col-md-4 hidden-xs ">
@@ -29,17 +29,17 @@
 		<div class="col-md-4 col-xs-12 features">
 			<div class="row">
 				<i class="fa fa-lightbulb-o fa-4x"></i>
-				<span>
+				<div>
 					<strong>Browse services</strong>
 					<p>Browse our extensive range of services</p>
-				</span>
+				</div>
 			</div>
 			<div class="row">
 				<i class="fa fa-rocket fa-4x"></i>
-				<span>
+				<div>
 					<strong>Quick location</strong>
 					<p>Find us quickly and easily with our handy map</p>
-				</span>
+				</div>
 			</div>
 		</div>
 		<div class="hidden-lg hidden-md hidden-sm">

@@ -46,13 +46,19 @@ body { font-family: 'Open Sans', sans-serif; }
 #foot .privacy {
 	text-transform: uppercase;
 	margin-bottom: 10px;
+	text-decoration: underline;
 }
+#foot .privacy:hover { text-decoration: none; }
 #SkypeButton_Call_lifequo_1 img {
 	margin: -38px 0 0 0 !important;
 	vertical-align: 0 !important;
 	-webkit-filter: grayscale(1);
 	filter: grayscale(1);
 	float: right;
+}
+#SkypeButton_Call_lifequo_1:hover img {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
 }
 
 #content { margin: 80px auto 50px auto; }

@@ -53,7 +53,7 @@
 	</div>
 </div>
 
-<img class="img-responsive image-about" src="../images/about-us.jpg" alt="About us Image" width="100%">
+<img class="img-responsive image-about" src="../images/about-us.jpg" alt="About us Image" style="width:100%">
 
 <div id="letter" class="container">
 	<h1>Letter from our <strong>CEO </strong></h1>
