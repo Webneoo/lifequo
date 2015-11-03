@@ -93,7 +93,7 @@
 	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
-				<img class="img-responsive" src="../images/projects/atrium.jpg" alt="Atrium Project">
+				<img class="img-responsive" src="../images/projects/atrium/atrium1.jpg" alt="Atrium Project">
 				<div class="overlay">
 		        	<a class="info" href="{{ route('atrium_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
@@ -106,7 +106,7 @@
 		</div>
 		<div class="col-md-6">
 			<div class="port-img">
-				<img class="img-responsive" src="../images/projects/monot.jpg" alt="Monot 38 Project">
+				<img class="img-responsive" src="../images/projects/monot/monot1.jpg" alt="Monot 38 Project">
 				<div class="overlay">
 		        	<a class="info" href="{{ route('monot_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>

@@ -157,7 +157,7 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-6 project">
-					<img class="img-responsive" src="../images/projects/monot.jpg" alt="Monot Project">
+					<img class="img-responsive" src="../images/projects/monot/monot1.jpg" alt="Monot Project">
 					<div class="overlay">
 			           <h1>Monot 38</h1>
 			           <span class="line"></span>
@@ -165,7 +165,7 @@
 			        </div>
 				</div>
 				<div class="col-sm-6 project">
-					<img class="img-responsive" src="../images/projects/atrium.jpg" alt="Atrium Project">
+					<img class="img-responsive" src="../images/projects/atrium/atrium1.jpg" alt="Atrium Project">
 					<div class="overlay">
 			           <h1>Atrium</h1>
 			           <span class="line"></span>
