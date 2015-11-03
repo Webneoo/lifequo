@@ -3,7 +3,7 @@
 	<div id="foot" class="container-fluid">
 
 		<div class="col-sm-6 col-md-3">
-			<p>©2015 <strong><a href="http://webneoo.com">webneoo</a></strong> | All rights reserved.</p>
+			<p>©2015 <strong><a href="https://www.webneoo.com/">webneoo</a></strong> | All rights reserved.</p>
 		</div>
 		<div class="col-sm-6 col-md-2">
 			<p><strong>Phone: </strong> +961 1 324 180 </p>
