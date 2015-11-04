@@ -9,46 +9,20 @@
 <div id="about" class="dark-bg">
 	<div class="container">
 		<div class="col-md-7">
-			<h1>LIFE <sup style="top:-5px"> QUO</sup> <br> <strong>the agency</strong></h1>
+			<h1>LIFE Q<sup style="top:-5px">UO</sup> <br> <strong>the agency</strong></h1>
 			<p>LifeQuo is a full-source property design, management, and maintenance company based in Beirut, Lebanon. Established in 2014, LifeQuo aims to shape the industry and set forth a new quality of life. LifeQuo consolidates and meets all residential and commercial property needs, offering a wide array of services through its professional and specialized team of experts in various corresponding fields.</p>
 			<br><br>
 		</div>
-		<div class="col-md-5">
-            <div class="panel-group" id="accordion">
+		<div class="col-md-5 statement">
+            <h4 class="panel-title"><i class="fa fa-wrench"></i> Mission Statement</h4>
+            <div class="panel-body">
+            	<p>LifeQuo reduces chaos and offers a secure, dependable, and specialized source for all property and hospitality management and maintenance services.</p>
+            </div>
 
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title">
-                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-1">
-                        <i class="fa fa-angle-up control-icon"></i>
-                        <i class="fa fa-wrench"></i> Mission Statement
-                      </a>
-                    </h4>
-                  </div>
-                  <div id="collapse-1" class="panel-collapse collapse in">
-                    <div class="panel-body">
-                    	<p>LifeQuo reduces chaos and offers a secure, dependable, and specialized source for all property and hospitality management and maintenance services.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <h4 class="panel-title">
-                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-2" class="collapsed">
-                        <i class="fa fa-angle-up control-icon"></i>
-                        <i class="fa fa-magic"></i> Vision Statement
-                      </a>
-                    </h4>
-                  </div>
-                  <div id="collapse-2" class="panel-collapse collapse">
-                    <div class="panel-body">
-                    	<p>To offer the highest level of excellent property management and set a new bar for the quality of life.</p>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
+            <h4 class="panel-title"><i class="fa fa-magic"></i> Vision Statement</h4>
+            <div class="panel-body">
+            	<p>To offer the highest level of excellent property management and set a new bar for the quality of life.</p>
+            </div>
 		</div>
 	</div>
 </div>

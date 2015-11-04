@@ -48,16 +48,32 @@
 <!--     SERVICES     -->
 <div id="services" class="container">
 	<div class="row">
-		<span class="line hidden-xs" style="margin:42px auto auto -293px;"></span><h1>What we <strong>do ?</strong></h1><span class="line hidden-xs" style="margin:-47px auto auto 130px;"></span>
-		<p>At LifeQuo, a single and fundamental thread runs through all of our consultancy services—maximised performance of our clients' facilities. Whether we are finding efficiencies in a building’s systems, providing interim management of the daily facilities operations, or helping companies to accommodate more employees in less space, we are always focused on getting the best out of your property and helping you to reach your corporate objectives.</p>
+		<span class="line hidden-xs" style="margin:42px auto auto -293px;"></span><h1>What we <strong>do</strong></h1><span class="line hidden-xs" style="margin:-47px auto auto 130px;"></span>
+		<p>At LifeQuo, a single and fundamental thread runs through all of our consultancy services—maximised performance of our clients' facilities. Whether we are finding efficiencies in a building’s systems, providing interim management of the daily facilities operations, we are always focused on getting the best out of your property and helping you to reach your corporate objectives, and taking the FM world to a different level.</p>
 	</div>
 	<div class="row">
         <br>
         <div class="all-services custom-carousel touch-carousel" data-appeared-items="4">
 
+        	<div class="post-row item">
+				<a href="{{ route('services_path')}}#our-services">
+					<i class="fa fa-users fa-4x"></i>
+					<h2>Common Area <br> Services</h2>
+					<p>We offer superior quality services for entire residential properties and commercial real estate.</p>
+				</a>
+			</div>
+
+			<div class="post-row item">
+				<a href="{{ route('services_path')}}#our-services">
+					<i class="fa fa-shield fa-4x"></i>
+					<h2>Private Area <br> Services</h2>
+					<p>Ensure your residence or commercial property is maintained to the highest standard of engineering and care, which will increase the property’s life-span, and in-turn, its value.</p>
+				</a>
+			</div>
+
 			<div class="item">
 				<a href="{{ route('services_path')}}#quality">
-					<i class="fa fa-money fa-4x"></i>
+					<i class="fa fa-money fa-4x"></i><i class="fa fa-check fa-4x" style="position:relative; margin-left:-28px; top:15px;"></i>
 					<h2>Quality & Cost <br> Control</h2>
 					<p>Our team handles all issues related to quality and cost control for all real estate properties and construction sites.</p>
 				</a>
@@ -68,22 +84,6 @@
 					<i class="fa fa-black-tie fa-4x"></i>
 					<h2>Hospitality & <br> Management services</h2>
 					<p>At LifeQuo, in addition to securing a high quality of life, we aim to create a luxurious life style.</p>
-				</a>
-			</div>
-
-			<div class="post-row item">
-				<a href="{{ route('services_path')}}#our-services">
-					<i class="fa fa-users fa-4x"></i>
-					<h2>Common Area <br> Services</h2>
-					<p>We offer superior quality services for entire residential properties and commercial real estate.</p>
-				</a>
-			</div>
-
-			<div class="post-row item">
-				<a href="{{ route('services_path')}}#our-services">
-					<i class="fa fa-user-secret fa-4x"></i>
-					<h2>Private Area <br> Services</h2>
-					<p>Ensure your residence or commercial property is maintained to the highest standard of engineering and care, which will increase the property’s life-span, and in-turn, its value.</p>
 				</a>
 			</div>
 
@@ -121,8 +121,8 @@
 <div id="welcome" class="dark-bg">
 	<div class="container">
 		<div class="col-md-7">
-			<h1>Welcome to <br> <strong>our Website</strong></h1>
-			<p>Here at LifeQuo (sister company of Mouawad Projects), we help offer a superior living experience, from hassle and stress-free property maintenance, well-organized services, and cost-effective quality management. With qualified experts in all fields, we make managing various projects, properties, and venues a breeze. Sit back, relax and let us do all the work.</p>
+			<h1>Welcome to <br> <strong>LIFE Q<sup style="top:-5px">UO</sup></strong></h1>
+			<p>Here at LifeQuo (sister company of Mouawad Projects), we help offer a superior living experience, from hassle and stress-free property maintenance, to well-organized services, and cost-effective quality management. With qualified experts in all fields, we make managing various projects, properties, and venues a breeze. Sit back, relax and let us do all the work.</p>
 			<br>
 			<p style="line-height: 1.8;">To get to know us a little bit more, visit <a class="green-btn" href="{{ route('about_path') }}">About <i class="fa fa-arrow-right"></i></a></p>
 		</div>

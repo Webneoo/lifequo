@@ -278,69 +278,17 @@ body { font-family: 'Open Sans', sans-serif; }
 
 
 /* -------------- ABOUT -------------- */
-.panel-default>.panel-heading {
-	color: #fff;
-    background-color: #444;
-    border-color: #6db738;
-}
-.panel-group .panel-heading { border-bottom: 1px solid #6db738; }
-.panel-group { margin: 100px auto; }
-.panel-group .panel {
-	border-radius: 2px;
-	-webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    -o-border-radius: 2px;
-    background-color: transparent;
-}
-.panel-default { border-color: #6db738; }
-.panel-body { padding: 4px 15px 10px 15px; }
-.panel-heading { padding: 0; }
+.statement { margin: 90px auto 50px auto; }
 .panel-title {
 	font-size: 16px;
 	font-weight: 600;
+	padding: 7px 20px;
+	background-color: rgba(0, 0, 0, 0.5);
 }
-.panel-title a {
-	position: relative;
-	display: block;
-	padding: 6px 12px;
-	box-shadow: none;
-	-o-box-shadow: none;
-	-moz-box-shadow: none;
-  	-webkit-box-shadow: none;
-	transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -webkit-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-}
-.panel-title a.collapsed {
-	color: #fff;
-	box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
-	-o-box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
-	-moz-box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
-  	-webkit-box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
-}
-.panel-title a.collapsed:hover { color: #fff; }
-.panel-title a .control-icon {
-	position: absolute;
-	top: 50%;
-	right: 10px;
-	margin-top: -11px;
-	transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -webkit-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-}
-.panel-title a.collapsed .control-icon {
-	-webkit-transform: rotate(-180deg);
-	-moz-transform: rotate(-180deg);
-	-ms-transform: rotate(-180deg);
-	-o-transform: rotate(-180deg);
-}
-.panel-title a i {
+.panel-title i {
 	font-size: 1.2em;
     padding-right: 5px;
 }
-.panel-default > .panel-heading + .panel-collapse .panel-body { border-top: none; }
 .image-about { margin: 50px 0; }
 #letter { text-align: center; margin: 0 auto 50px auto; }
 #letter h1 { font-family: 'Raleway', sans-serif; margin: 20px auto 50px auto;}
