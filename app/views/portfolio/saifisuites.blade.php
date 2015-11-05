@@ -20,6 +20,9 @@
 				<div class="item">
 					<img class="img-responsive" src="../images/projects/saifisuites/saifisuites3.jpg" alt="Saifi Suites">
 				</div>
+				<div class="item">
+					<img class="img-responsive" src="../images/projects/saifisuites/saifisuites4.jpg" alt="Saifi Suites">
+				</div>
 			</div>
 
 			<!-- Controls -->

@@ -29,9 +29,6 @@
 				<div class="item">
 					<img class="img-responsive" src="../images/projects/monot/monot6.jpg" alt="Monot 38">
 				</div>
-				<div class="item">
-					<img class="img-responsive" src="../images/projects/monot/monot7.jpg" alt="Monot 38">
-				</div>
 			</div>
 
 			<!-- Controls -->
