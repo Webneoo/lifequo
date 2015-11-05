@@ -22,15 +22,15 @@
 		</div>
 		<div class="col-md-6">
 			<div class="port-img">
-				<img class="img-responsive" src="../images/projects/kampai.jpg" alt="Kampai Catering Project">
+				<img class="img-responsive" src="../images/projects/the-palladium.jpg" alt="The Palladium Project">
 				<div class="overlay">
-		        	<a class="info" href="{{ route('kampai_path') }}"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('palladium_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
-	        	<h1>Kampai Catering</h1>
+	        	<h1>The Palladium</h1>
 	        	<span class="line"></span>
-	        	<p>Kampaï is an experience that says cheers to refined cuisine and urban chic décor. It toasts the wonderful flavors of Japan and Asia while giving each dish contemporary seasoning and unique identity.</p>
+	        	<p>The retail space is laid out on the first two levels, with 4 levels of office space on the main roads and, on one level, with 6 levels of residential floors on the secondary roads.</p>
 	        </div>
 		</div>
 	</div>
@@ -50,15 +50,15 @@
 		</div>
 		<div class="col-md-6">
 			<div class="port-img">
-				<img class="img-responsive" src="../images/projects/the-palladium.jpg" alt="The Palladium Project">
+				<img class="img-responsive" src="../images/projects/park-tower.jpg" alt="Park Tower Project">
 				<div class="overlay">
-		        	<a class="info" href="{{ route('palladium_path') }}"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('parktower_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
-	        	<h1>The Palladium</h1>
+	        	<h1>Park Tower</h1>
 	        	<span class="line"></span>
-	        	<p>The retail space is laid out on the first two levels, with 4 levels of office space on the main roads and, on one level, with 6 levels of residential floors on the secondary roads.</p>
+	        	<p>"As comfortable as your home, as practical as a hotel" Only a 10 minutes drive (7 km) from the airport, ParkTower Suites is conveniently located at the heart of Ashrafieh and minutes away from the center of Beirut </p>
 	        </div>
 		</div>
 	</div>
@@ -121,15 +121,15 @@
 	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
-				<img class="img-responsive" src="../images/projects/park-tower.jpg" alt="Park Tower Project">
+				<img class="img-responsive" src="../images/projects/kampai.jpg" alt="Kampai Catering Project">
 				<div class="overlay">
-		        	<a class="info" href="{{ route('parktower_path') }}"><i class="fa fa-plus fa-2x"></i></a>
+		        	<a class="info" href="{{ route('kampai_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>
 			</div>
 	        <div class="details">
-	        	<h1>Park Tower</h1>
+	        	<h1>Kampai Catering</h1>
 	        	<span class="line"></span>
-	        	<p>"As comfortable as your home, as practical as a hotel" Only a 10 minutes drive (7 km) from the airport, ParkTower Suites is conveniently located at the heart of Ashrafieh and minutes away from the center of Beirut </p>
+	        	<p>Kampaï is an experience that says cheers to refined cuisine and urban chic décor. It toasts the wonderful flavors of Japan and Asia while giving each dish contemporary seasoning and unique identity.</p>
 	        </div>
 		</div>
 		<div class="col-md-6">

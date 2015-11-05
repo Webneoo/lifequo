@@ -49,7 +49,7 @@
 <div id="services" class="container">
 	<div class="row">
 		<span class="line hidden-xs" style="margin:42px auto auto -293px;"></span><h1>What we <strong>do</strong></h1><span class="line hidden-xs" style="margin:-47px auto auto 130px;"></span>
-		<p>At LifeQuo, a single and fundamental thread runs through all of our consultancy services—maximised performance of our clients' facilities. Whether we are finding efficiencies in a building’s systems, providing interim management of the daily facilities operations, we are always focused on getting the best out of your property and helping you to reach your corporate objectives, and taking the FM world to a different level.</p>
+		<p>At LifeQuo, a single and fundamental thread runs through all of our consultancy services—maximised performance of our clients' facilities. Whether we are finding efficiencies in a building’s systems, providing interim management of the daily facilities operations, we are always focused on getting the best out of your property, helping you to reach your corporate objectives, and taking the FM world to a different level.</p>
 	</div>
 	<div class="row">
         <br>
