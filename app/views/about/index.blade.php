@@ -34,7 +34,7 @@
 	<div class="col-md-6">
 		<p>“All fields of the real estate industry have been heavily integrated in my family and have instilled in me a passion and dedication that has been passed down from generation to generation, from my grandfather to my father. Now, it is my turn to continue in the steps of the generations that came before me and establish an entity that will enhance real estate services and take them to a new level.</p>
 		<br>
-		<p>With the importance of the hospitality sector in the country and the current booming of residential complexes needing high-quality management and maintenance, we bring to you ‘LifeQuo’. With 'LifeQuo' I aim to continue the vision of my father and grandfather to provide residential and commercial property owners ‘peace of mind’ by combining multiple technical and managerial specializations under one umbrella to effectively meet all needs. </p>
+		<p>With the importance of the hospitality sector in the country and the current booming of residential complexes needing high-quality management and maintenance, we bring to you ‘LifeQuo’. With 'LifeQuo' I aim to provide residential and commercial property owners ‘peace of mind’ by combining multiple technical and managerial specializations under one umbrella to effectively meet all needs. </p>
 	</div>
 	<div class="col-md-6">
 		<img class="img-responsive" src="../images/ceo.jpg" alt="CEO Picture"><br>
