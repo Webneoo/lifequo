@@ -1,12 +1,12 @@
 
 
 <h1>Email from LifeQuo</h1>
-<p>First Name: {{ $fname }}</p>
-<p>Last Name: {{ $lname }}</p>
-<p>Email: {{ $email_client }}</p>
-<p>Phone: {{ $phone }}</p>
-<p>Subject: {{ $subject_client }}</p>
-<p>Message: {{ $msg_client }}</p>
-<p>Date: {{ $date_client }}</p>
-<p>Captcha: {{ $captcha }}</p>
+<p>First Name: {{ $input['fname'] }}</p>
+<p>Last Name: {{ $input['lname']  }}</p>
+<p>Email: {{ $input['email']  }}</p>
+<p>Phone: {{ $input['phone']  }}</p>
+<p>Subject: {{ $input['subject']  }}</p>
+<p>Message: {{ $input['msg_client']  }}</p>
+<p>Date: {{ $input['date_client']  }}</p>
+<p>Captcha: {{ $input['captcha']  }}</p>
 
