@@ -1,7 +1,5 @@
 @extends('layouts.default')
 
-@section('title', 'LifeQuo - Contact Us')
-@section('robots', 'INDEX,FOLLOW')
 
 @section('content')
 
