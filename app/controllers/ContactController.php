@@ -25,11 +25,13 @@ class ContactController extends BaseController {
         $input = Input::all();
 
         dd($input);
+        $email = $input['email'];
+        $subject = $input['subject'];
 
-        Mail::send('emails.contact', array('fname' => $fname, 'lname' => $lname, 'email_client' => $email_client, 'phone' => $phone, 'subject_client' => $subject_client, 'msg_client' => $msg_client, 'date_client' => $date_client, 'captcha' => $captcha), function($message) use ($email_client)
+        Mail::send('emails.contact', array('input' => $input), function($message) use ($email, $subject)
         {
-            $message->from($email_client, 'Lifequo')->subject($subject_client);
-            $message->to('celine.khourieh@webneoo.com');
+            $message->from($email, 'Lifequo')->subject($subject);
+            $message->to('info@webneoo.com');
         });
 
         return View::make('contact.index');
