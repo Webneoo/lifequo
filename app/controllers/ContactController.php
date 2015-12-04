@@ -23,7 +23,7 @@ class ContactController extends BaseController {
 	public function getContactForm()
 	{
         $input = Input::all();
-        
+
         $email = $input['email'];
         $subject = $input['subject'];
 
