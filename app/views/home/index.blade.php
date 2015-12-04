@@ -31,6 +31,15 @@
         <em>We aim to create a luxurious life style.</em>
       </div>
     </div>
+    <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/atwork.jpg" alt="LifeQuo at work">
+    </div>
+    <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/team.jpg" alt="LifeQuo team">
+    </div>
+    <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/working.jpg" alt="LifeQuo working">
+    </div>
   </div>
 
   <!-- Controls -->
