@@ -5,7 +5,8 @@
 	"license": "MIT",
 	"require": {
         "laravel/framework": "4.*",
-        "johntaa/captcha": "dev-master" 
+        "johntaa/captcha": "dev-master",
+        "guzzlehttp/guzzle": "^5.2"
     },
     "minimum-stability": "dev",
 	"autoload": {
