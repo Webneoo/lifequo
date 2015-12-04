@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6949df54-a839-4b86-9c9b-e944cfabbb0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.env.php" afterPath="$PROJECT_DIR$/.env.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/ContactController.php" afterPath="$PROJECT_DIR$/app/controllers/ContactController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lifequo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,11 +31,11 @@
       <file leaf-file-name="ContactController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/ContactController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7886836" vertical-offset="116" max-vertical-offset="1003">
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.21593533" vertical-offset="221" max-vertical-offset="1122">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
-                <marker date="1449234800726" expanded="true" signature="899:914" placeholder="..." />
-                <marker date="1449234800726" expanded="true" signature="1060:1075" placeholder="..." />
+                <marker date="1449234867868" expanded="true" signature="1227:1242" placeholder="..." />
+                <marker date="1449234867868" expanded="true" signature="1399:1414" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -475,11 +475,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/ContactController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7886836" vertical-offset="116" max-vertical-offset="1003">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.21593533" vertical-offset="221" max-vertical-offset="1122">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <marker date="1449234800726" expanded="true" signature="899:914" placeholder="..." />
-            <marker date="1449234800726" expanded="true" signature="1060:1075" placeholder="..." />
+            <marker date="1449234867868" expanded="true" signature="1227:1242" placeholder="..." />
+            <marker date="1449234867868" expanded="true" signature="1399:1414" placeholder="..." />
           </folding>
         </state>
       </provider>

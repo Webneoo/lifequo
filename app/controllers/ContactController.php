@@ -27,15 +27,23 @@ class ContactController extends BaseController {
         $email = $input['email'];
         $subject = $input['subject'];
 
+        $rules = array(
+            'name'             => 'required|min:3',
+            'email'            => 'required|email',
+            'subject'          => 'required',
+            'msg_client' 	   => 'required',
+            'date_client' 	   => 'required',
+            'captcha'		   => 'required|captcha'
+        );
 
 
         $validator = Validator::make(Input::all(), $rules);
         if ($validator->fails()) {
-        	$messages = $validator->messages();
-        	echo '<p style="color: #ff0000;">Incorrect!</p>';
-        return Redirect::to('contact')
-            ->withErrors($validator);
-    	}
+            $messages = $validator->messages();
+            echo '<p style="color: #ff0000;">Incorrect!</p>';
+            return Redirect::to('contact')
+                ->withErrors($validator);
+        }
         else {
             echo '<p style="color: #00ff30;">Matched :)</p>';
         }
@@ -45,7 +53,6 @@ class ContactController extends BaseController {
             $message->from($email, 'Lifequo')->subject($subject);
             $message->to('info@webneoo.com');
         });
-        
 
         return View::make('contact.index');
      }
