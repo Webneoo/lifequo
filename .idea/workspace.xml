@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6949df54-a839-4b86-9c9b-e944cfabbb0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/ContactController.php" afterPath="$PROJECT_DIR$/app/controllers/ContactController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/emails/contact.blade.php" afterPath="$PROJECT_DIR$/app/views/emails/contact.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/mail.php" afterPath="$PROJECT_DIR$/app/config/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lifequo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,17 +54,37 @@
       <file leaf-file-name="ContactController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/ContactController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="765">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="765">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".env.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="238">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.960739" vertical-offset="1276" max-vertical-offset="2210">
+              <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/emails/contact.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1374134" vertical-offset="0" max-vertical-offset="866">
+            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="306">
               <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
@@ -86,8 +106,10 @@
       <list>
         <option value="$PROJECT_DIR$/app/views/home/index.blade.php" />
         <option value="$PROJECT_DIR$/app/views/contact/index.blade.php" />
-        <option value="$PROJECT_DIR$/app/controllers/ContactController.php" />
         <option value="$PROJECT_DIR$/app/views/emails/contact.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/ContactController.php" />
+        <option value="$PROJECT_DIR$/.env.php" />
+        <option value="$PROJECT_DIR$/app/config/mail.php" />
       </list>
     </option>
   </component>
@@ -211,7 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -225,6 +247,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\code\lifequo" />
+    </key>
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -312,18 +339,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/ContactController.php">
+    <entry file="file://$PROJECT_DIR$/app/views/emails/contact.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="765">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="306">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/emails/contact.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/ContactController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1374134" vertical-offset="0" max-vertical-offset="866">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="765">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="238">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.960739" vertical-offset="1276" max-vertical-offset="2210">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
           <folding />
         </state>
       </provider>
