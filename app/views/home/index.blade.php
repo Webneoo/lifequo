@@ -18,10 +18,22 @@
       </div>
     </div>
     <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/atwork.jpg" alt="LifeQuo at work">
+      <div class="carousel-caption hidden-xs">
+        <h1>Persistant</h1>
+      </div>
+    </div>
+    <div class="item">
       <img class="img-responsive" src="../images/home-carousel/quality.jpg" alt="Quality & Cost Control">
       <div class="carousel-caption hidden-xs">
         <h1>Quality & Cost Control</h1>
         <em>We handle all issues related to quality and cost control.</em>
+      </div>
+    </div>
+    <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/team.jpg" alt="LifeQuo team">
+      <div class="carousel-caption hidden-xs">
+        <h1>Promising possiblities</h1>
       </div>
     </div>
     <div class="item">
@@ -32,13 +44,10 @@
       </div>
     </div>
     <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/atwork.jpg" alt="LifeQuo at work">
-    </div>
-    <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/team.jpg" alt="LifeQuo team">
-    </div>
-    <div class="item">
       <img class="img-responsive" src="../images/home-carousel/working.jpg" alt="LifeQuo working">
+      <div class="carousel-caption hidden-xs">
+        <h1>Robotics</h1>
+      </div>
     </div>
   </div>
 
