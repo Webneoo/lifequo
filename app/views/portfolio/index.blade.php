@@ -9,6 +9,19 @@
 	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
+				<img class="img-responsive" src="../images/projects/nahar.jpg" alt="Oakridge Project">
+				<div class="overlay">
+		        	<a class="info" href="{{ route('annahar_path') }}"><i class="fa fa-plus fa-2x"></i></a>
+		        </div>
+			</div>
+	        <div class="details">
+	        	<h1>Nahar</h1>
+	        	<span class="line"></span>
+	        	<p>The Iconic Al-Borj Building in downtown Beirut is the headquarters of one of the leading newspapers in the country and hosts several other establishment within its premises including restaurants, stores and a Lounge.</p>
+	        </div>
+		</div>
+		<div class="col-md-6">
+			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/oakridge.jpg" alt="Oakridge Project">
 				<div class="overlay">
 		        	<a class="info" href="{{ route('oakridge_path') }}"><i class="fa fa-plus fa-2x"></i></a>
@@ -20,6 +33,8 @@
 	        	<p>The Residences consist of one level of garden simplexes and two levels of terrace residences. The areas of these attractive residences ensure residents have ample space to relax and entertain.</p>
 	        </div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/the-palladium.jpg" alt="The Palladium Project">
@@ -33,8 +48,6 @@
 	        	<p>The retail space is laid out on the first two levels, with 4 levels of office space on the main roads and, on one level, with 6 levels of residential floors on the secondary roads.</p>
 	        </div>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/saifi-pearl.jpg" alt="Saifi Pearl Project">
@@ -48,6 +61,8 @@
 	        	<p>Saifi Pearl offers the functionality of a modern architecture, the approval of materials and quality in services are guaranteed by one of the leaders name in the construction Mouawad Investment Group.</p>
 	        </div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/park-tower.jpg" alt="Park Tower Project">
@@ -61,8 +76,6 @@
 	        	<p>"As comfortable as your home, as practical as a hotel" Only a 10 minutes drive (7 km) from the airport, ParkTower Suites is conveniently located at the heart of Ashrafieh and minutes away from the center of Beirut </p>
 	        </div>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/the-pavillions.jpg" alt="The Pavillions Project">
@@ -76,6 +89,8 @@
 	        	<p>Close to the Grand Serail, the Mouawad Museum and the Serail Hill, The Pavilions, a luxurious and traditional residential building in a 1950's design, in a preserved neighborhood </p>
 	        </div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/capital-gardens.jpg" alt="Capital Gardens Project">
@@ -89,8 +104,6 @@
 	        	<p>The Capital Gardens, in the trendy Mina El Hosn area, is a luxurious residential project in one of the finest areas of Beirut central District. It is surrounded by the most renowned touristic attractions </p>
 	        </div>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/atrium/atrium1.jpg" alt="Atrium Project">
@@ -104,6 +117,8 @@
 	        	<p>A first-rate business facility. The Atrium situated among the very first developed properties, of the renovated Beirut Central District, was designed by international architects specifically to be a superior quality downtown business and shopping center.</p>
 	        </div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/monot/monot1.jpg" alt="Monot 38 Project">
@@ -117,8 +132,6 @@
 	        	<p>Monot 38's tower is based on a grid that runs from the basement floors to the very top. This grid paves the path for superior parking in the five basement levels and draws the guidelines for interior partitions.</p>
 	        </div>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/kampai.jpg" alt="Kampai Catering Project">
@@ -132,6 +145,8 @@
 	        	<p>Kampaï is an experience that says cheers to refined cuisine and urban chic décor. It toasts the wonderful flavors of Japan and Asia while giving each dish contemporary seasoning and unique identity.</p>
 	        </div>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
 				<img class="img-responsive" src="../images/projects/saifi-suites.jpg" alt="Saifi Suites Project">

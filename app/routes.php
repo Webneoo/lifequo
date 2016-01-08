@@ -33,6 +33,11 @@ Route::get('/portfolio', [
     'uses' => 'PortfolioController@index'
 ]);
 
+Route::get('/portfolio/nahar', [
+    'as' => 'annahar_path',
+    'uses' => 'PortfolioController@annahar'
+]);
+
 Route::get('/portfolio/oakridge', [
     'as' => 'oakridge_path',
     'uses' => 'PortfolioController@oakridge'
