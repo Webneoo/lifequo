@@ -10,7 +10,7 @@
 		<img class="img-responsive" src="../images/projects/nahar.jpg" alt="Nahar">
 	</div>
 	<div class="col-md-6">
-		<h1>Nahar</h1>
+		<h1>Al-Borj Building</h1>
 		<p>The Iconic Al-Borj Building in downtown Beirut is the headquarters of one of the leading newspapers in the country and hosts several other establishment within its premises including restaurants, stores and a Lounge. Located in the heart of Beirut’s downtown directly across the famous Martyrs’ Square, Al-Borj Building stands as an architectural masterpiece and offers a real challenge in terms of maintenance. A challenge that only LifeQuo is fit to handle.</p>
 	</div>
 </div>

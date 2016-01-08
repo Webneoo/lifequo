@@ -15,7 +15,7 @@
 		        </div>
 			</div>
 	        <div class="details">
-	        	<h1>Nahar</h1>
+	        	<h1>Al-Borj Building</h1>
 	        	<span class="line"></span>
 	        	<p>The Iconic Al-Borj Building in downtown Beirut is the headquarters of one of the leading newspapers in the country and hosts several other establishment within its premises including restaurants, stores and a Lounge.</p>
 	        </div>
