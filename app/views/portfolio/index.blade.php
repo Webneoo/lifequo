@@ -9,7 +9,7 @@
 	<div class="row">
 		<div class="col-md-6">
 			<div class="port-img">
-				<img class="img-responsive" src="../images/projects/nahar.jpg" alt="Oakridge Project">
+				<img class="img-responsive" src="../images/projects/nahar.jpg" alt="Al-Borj Building">
 				<div class="overlay">
 		        	<a class="info" href="{{ route('annahar_path') }}"><i class="fa fa-plus fa-2x"></i></a>
 		        </div>

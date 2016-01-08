@@ -7,7 +7,7 @@
 
 <div id="project" class="container">
 	<div class="col-md-6">
-		<img class="img-responsive" src="../images/projects/nahar.jpg" alt="Nahar">
+		<img class="img-responsive" src="../images/projects/nahar.jpg" alt="Al-Borj Building">
 	</div>
 	<div class="col-md-6">
 		<h1>Al-Borj Building</h1>

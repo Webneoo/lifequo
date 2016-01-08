@@ -33,7 +33,7 @@ Route::get('/portfolio', [
     'uses' => 'PortfolioController@index'
 ]);
 
-Route::get('/portfolio/bl-borj-building ', [
+Route::get('/portfolio/al-borj-building', [
     'as' => 'annahar_path',
     'uses' => 'PortfolioController@annahar'
 ]);
