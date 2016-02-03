@@ -31,12 +31,6 @@
       </div>
     </div>
     <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/team.jpg" alt="LifeQuo team">
-      <div class="carousel-caption hidden-xs">
-        <h1>Promising possiblities</h1>
-      </div>
-    </div>
-    <div class="item">
       <img class="img-responsive" src="../images/home-carousel/hospitality.jpg" alt="Management of Hospitality Services">
       <div class="carousel-caption hidden-xs">
         <h1>Management of Hospitality Services</h1>
