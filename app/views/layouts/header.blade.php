@@ -21,6 +21,7 @@
 		        <li class="{{Request::path() == 'about' ? 'active' : '';}}"><a href="{{ route('about_path') }}">About</a></li>
 		        <li class="{{Request::path() == 'services' ? 'active' : '';}}"><a href="{{ route('services_path') }}">Services</a></li>
 				<li class="{{Request::path() == 'portfolio' ? 'active' : '';}}"><a href="{{ route('portfolio_path') }}">Portfolio</a></li>
+				<li class="{{Request::path() == 'expertise' ? 'active' : '';}}"><a href="{{ route('expertise_path') }}">Expertise</a></li>
 				<li class="{{Request::path() == 'faq' ? 'active' : '';}}"><a href="{{ route('faq_path') }}">FAQ</a></li>
 				<li class="{{Request::path() == 'contact' ? 'active' : '';}}"><a href="{{ route('contact_path') }}">Contact</a></li>
 				<li class="{{Request::path() == 'mobile-application' ? 'active' : '';}}"><a href="{{ route('application_path') }}">Mobile App</a></li>

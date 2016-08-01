@@ -89,6 +89,12 @@ Route::get('/portfolio/saifi-suites', [
 ]);
 
 
+Route::get('/expertise', [
+    'as' => 'expertise_path',
+    'uses' => 'ExpertiseController@index'
+]);
+
+
 Route::get('/faq', [
     'as' => 'faq_path',
     'uses' => 'FaqController@index'
