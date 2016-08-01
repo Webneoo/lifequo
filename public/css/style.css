@@ -443,6 +443,6 @@ body { font-family: 'Open Sans', sans-serif; }
 }
 
 .team-member{margin-bottom:50px;text-align:center;}
-.team-member img{margin:0 auto;}
-.team-member h3{font-size:21px;margin-top:30px;margin-bottom:10px;}
+.team-member img{margin:0 auto; width:184px !important;}
+.team-member h3{font-size:18px;margin-top:30px;margin-bottom:10px;}
 .team-member h4{font-size:15px;color:#aaaaaa; font-weight:normal; font-style: italic;}
