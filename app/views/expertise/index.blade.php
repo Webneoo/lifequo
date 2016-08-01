@@ -23,7 +23,7 @@
 
 				<div class="col-sm-3">
 	                <div class="team-member">
-	                    <img src="/images/team/farid.jpg?v=2.0" class="img-responsive img-circle" alt="Farid Abi Aad | Mechanical engineer with 30 years of experience" title="Farid Abi Aad | Mechanical engineer with 30 years of experience">
+	                    <img src="/images/team/farid.jpg?v=3.0" class="img-responsive img-circle" alt="Farid Abi Aad | Mechanical engineer with 30 years of experience" title="Farid Abi Aad | Mechanical engineer with 30 years of experience">
 	                    <h3>Farid Abi Aad</h3>
 	                    <h4 class="text-muted">Mechanical engineer with 30 years of experience</h4>
 	                </div>
