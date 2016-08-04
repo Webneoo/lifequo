@@ -58,6 +58,14 @@
 
 	           <div class="col-sm-3">
 	                <div class="team-member">
+	                    <img src="/images/team/toni_chidiac.jpg" class="img-responsive img-circle" alt="Toni Chidiac | IT department" title="Toni Chidiac | IT department">
+	                    <h3>Toni Chidiac</h3>
+	                    <h4>IT department</h4> 
+	                </div>
+	           </div>
+
+	           <div class="col-sm-3">
+	                <div class="team-member">
 	                    <img src="/images/team/corine.jpg" class="img-responsive img-circle" alt="Corine Chadaideh | Accounting department" title="Corine Chadaideh | Accounting department">
 	                    <h3>Corine Chadaideh</h3>
 	                    <h4>Accounting department</h4>  

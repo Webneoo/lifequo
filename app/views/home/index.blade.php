@@ -11,6 +11,9 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
+      <img class="img-responsive" src="../images/home-carousel/lifequo.jpg" alt="LifeQuo">
+    </div>
+    <div class="item">
       <img class="img-responsive" src="../images/home-carousel/management.jpg" alt="Management & Maintenance Services">
       <div class="carousel-caption hidden-xs">
         <h1>Management & Maintenance Services</h1>
@@ -245,6 +248,15 @@
 	                    <h4>Engineer</h4> 
 	                </div>
 	           </div>
+
+	           <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/toni_chidiac.jpg" class="img-responsive img-circle" alt="Toni Chidiac | IT department" title="Toni Chidiac | IT department">
+	                    <h3>Toni Chidiac</h3>
+	                    <h4>IT department</h4> 
+	                </div>
+	           </div>
+
 
 	           <div class="col-sm-3">
 	                <div class="team-member">
