@@ -130,6 +130,7 @@
 
 
 <!--     WELCOME     -->
+<div id="about"></div>
 <div id="welcome" class="dark-bg">
 	<div class="container">
 		<div class="col-md-7">
