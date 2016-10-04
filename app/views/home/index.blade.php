@@ -10,6 +10,12 @@
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
+  	<div class="item active">
+      <img class="img-responsive" src="../images/home-carousel/lifequo_landscape.jpg" alt="ISO 9001 certification">
+      <div class="carousel-caption hidden-xs">
+        <h1>LifeQuo Management SAL ISO 9001 certification</h1>
+      </div>
+    </div>
     <div class="item active">
       <img class="img-responsive" src="../images/home-carousel/management.jpg" alt="Management & Maintenance Services">
       <div class="carousel-caption hidden-xs">
