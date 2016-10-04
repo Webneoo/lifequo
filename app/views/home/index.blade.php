@@ -16,7 +16,7 @@
         <h1>LifeQuo Management SAL ISO 9001 certification</h1>
       </div>
     </div>
-    <div class="item active">
+    <div class="item">
       <img class="img-responsive" src="../images/home-carousel/lifequo.jpg" alt="LifeQuo">
     </div>
     <div class="item">
