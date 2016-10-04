@@ -33,6 +33,11 @@ Route::get('/portfolio', [
     'uses' => 'PortfolioController@index'
 ]);
 
+Route::get('/portfolio/al-borj-building', [
+    'as' => 'annahar_path',
+    'uses' => 'PortfolioController@annahar'
+]);
+
 Route::get('/portfolio/oakridge', [
     'as' => 'oakridge_path',
     'uses' => 'PortfolioController@oakridge'
@@ -81,6 +86,12 @@ Route::get('/portfolio/park-tower', [
 Route::get('/portfolio/saifi-suites', [
     'as' => 'saifisuites_path',
     'uses' => 'PortfolioController@saifisuites'
+]);
+
+
+Route::get('/expertise', [
+    'as' => 'expertise_path',
+    'uses' => 'ExpertiseController@index'
 ]);
 
 

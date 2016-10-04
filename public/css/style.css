@@ -138,7 +138,7 @@ body { font-family: 'Open Sans', sans-serif; }
 	margin: 90px auto 30px auto;
 	font-size: 30px;
 }
-.dark-bg h1 strong {
+.dark-bg h1 strong{
 	font-weight: 700;
 	font-size: 50px;
 }
@@ -266,15 +266,32 @@ body { font-family: 'Open Sans', sans-serif; }
 #project { margin: 130px auto 50px auto; }
 
 /* ----- Work with us ----- */
-#work-with-us {
+
+.work_with_us {
+	width: 100%;
+	height: auto;
+	border-bottom: 7px solid #6db738;
+}
+.work_with_us h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	margin: 90px auto 30px auto;
+	font-size: 30px;
+}
+.work_with_us h1 strong{
+	font-weight: 700;
+	font-size: 50px;
+}
+
+#work-with-us, #expertise {
 	text-align: center;
 	padding-bottom: 50px;
 }
-#work-with-us h1 {
+#work-with-us h1, #expertise h1{
 	margin: 50px auto;
 	font-weight: bold;
 }
-#work-with-us .green-btn { padding: 20px 50px; }
+#work-with-us .green-btn, #expertise{ padding: 20px 50px; }
 
 
 /* -------------- ABOUT -------------- */
@@ -333,7 +350,7 @@ body { font-family: 'Open Sans', sans-serif; }
 #privacy p { max-width: 900px; margin: 30px auto; }
 
 
-/* -------------- PRIVACY -------------- */
+/* -------------- CONTACT -------------- */
 #contact h1 { font-size: 25px; font-weight: bold; }
 #contact span { float: left; }
 #contact .fa-circle { color: #6db738; }
@@ -418,3 +435,14 @@ body { font-family: 'Open Sans', sans-serif; }
 	text-align: center;
 }
 .features .row { margin: 80px auto; }
+
+
+.img-circle
+{
+	border-radius: 50% !important;
+}
+
+.team-member{margin-bottom:50px;text-align:center;}
+.team-member img{margin:0 auto; width:184px !important;}
+.team-member h3{font-size:18px;margin-top:30px;margin-bottom:10px;}
+.team-member h4{font-size:15px;color:#aaaaaa; font-weight:normal; font-style: italic;}

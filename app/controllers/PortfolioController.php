@@ -20,6 +20,11 @@ class PortfolioController extends BaseController {
 		return View::make('portfolio.index');
 	}
 
+	public function annahar()
+	{
+		return View::make('portfolio.annahar');
+	}
+
 	public function oakridge()
 	{
 		return View::make('portfolio.oakridge');

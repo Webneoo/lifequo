@@ -17,10 +17,19 @@
       </div>
     </div>
     <div class="item active">
+      <img class="img-responsive" src="../images/home-carousel/lifequo.jpg" alt="LifeQuo">
+    </div>
+    <div class="item">
       <img class="img-responsive" src="../images/home-carousel/management.jpg" alt="Management & Maintenance Services">
       <div class="carousel-caption hidden-xs">
         <h1>Management & Maintenance Services</h1>
         <em>Super quality services for entire residential properties and commercial real estate.</em>
+      </div>
+    </div>
+    <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/atwork.jpg" alt="LifeQuo at work">
+      <div class="carousel-caption hidden-xs">
+        <h1>Persistant</h1>
       </div>
     </div>
     <div class="item">
@@ -35,6 +44,12 @@
       <div class="carousel-caption hidden-xs">
         <h1>Management of Hospitality Services</h1>
         <em>We aim to create a luxurious life style.</em>
+      </div>
+    </div>
+    <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/working.jpg" alt="LifeQuo working">
+      <div class="carousel-caption hidden-xs">
+        <h1>Robotics</h1>
       </div>
     </div>
   </div>
@@ -139,6 +154,7 @@
 </div>
 
 
+
 <!--     PORTFOLIO     -->
 <div id="projects" class="container">
 	<div class="row">
@@ -187,11 +203,94 @@
 	</div>
 </div>
 
+<!--     EXPERTISE     -->
+<div id="expertise" class="dark-bg">
+	<div class="container">
+		<span class="line hidden-xs" style="margin:70px auto auto -270px; background-color:#fff"></span>
+		<h1>Expertise</h1>
+		<span class="line hidden-xs" style="margin:-63px auto auto 120px; background-color:#fff"></span>
+			
+			<div class="row">
+				<div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/tony.jpg" class="img-responsive img-circle" alt="Tony Hojeily | Technical manager" title="Tony Hojeily | Technical manager">
+	                    <h3>Tony Hojeily</h3>
+	                    <h4>Technical manager</h4> 
+	                </div>
+	            </div>
+
+				<div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/farid.jpg?v=3.0" class="img-responsive img-circle" alt="Farid Abi Aad | Mechanical engineer with 30 years of experience" title="Farid Abi Aad | Mechanical engineer with 30 years of experience">
+	                    <h3>Farid Abi Aad</h3>
+	                    <h4 class="text-muted">Mechanical engineer with 30 years of experience</h4>
+	                </div>
+	            </div>
+
+	            <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/assaad.jpg" class="img-responsive img-circle" alt="Assaad Kfoury | Electrical engineer with 20 years of experience" title="Assaad Kfoury | Electrical engineer with 20 years of experience">
+	                    <h3>Assaad Kfoury</h3>
+	                    <h4>Electrical engineer with 20 years of experience</h4>
+	                </div>
+	            </div>
+
+
+	            <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/julien.jpg" class="img-responsive img-circle" alt="Julien Mouchantaf | Civil engineer" title="Julien Mouchantaf | Civil engineer">
+	                    <h3>Julien Mouchantaf</h3>
+	                    <h4>Civil engineer</h4>  
+	                </div>
+	            </div>
+           </div>
+
+           <div class="row">
+	           
+	           <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/bassam.jpg" class="img-responsive img-circle" alt="Bassam Hammoud | Engineer" title="Bassam Hammoud | Engineer">
+	                    <h3>Bassam Hammoud</h3>
+	                    <h4>Engineer</h4> 
+	                </div>
+	           </div>
+
+	           <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/toni_chidiac.jpg" class="img-responsive img-circle" alt="Toni Chidiac | IT department" title="Toni Chidiac | IT department">
+	                    <h3>Toni Chidiac</h3>
+	                    <h4>IT department</h4> 
+	                </div>
+	           </div>
+
+
+	           <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/corine.jpg" class="img-responsive img-circle" alt="Corine Chadaideh | Accounting department" title="Corine Chadaideh | Accounting department">
+	                    <h3>Corine Chadaideh</h3>
+	                    <h4>Accounting department</h4>  
+	                </div>
+	            </div>
+
+	            <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/reem.jpg" class="img-responsive img-circle" alt="Reem Bou Matar | Operations manager collection" title="Reem Bou Matar | Operations manager collection">
+	                    <h3>Reem Bou Matar</h3>
+	                    <h4>Operations manager collection</h4> 
+	                </div>
+	           </div>
+ 
+           </div>
+	</div>
+</div>
+
 
 <!--     WORK WITH US     -->
-<div id="work-with-us" class="dark-bg">
+<div id="work-with-us" class="work_with_us">
 	<div class="container">
-		<span class="line hidden-xs" style="margin:70px auto auto -370px; background-color:#fff"></span><h1>Want to work with us ?</h1><span class="line hidden-xs" style="margin:-63px auto auto 320px; background-color:#fff"></span>
+		<span class="line hidden-xs" style="margin:70px auto auto -370px; background-color:#000"></span>
+		<h1>Want to work with us ?</h1>
+		<span class="line hidden-xs" style="margin:-63px auto auto 320px; background-color:#000"></span>
 		<a class="green-btn" href="{{ route('contact_path') }}">Get in touch <i class="fa fa-arrow-right"></i></a>
 	</div>
 </div>
