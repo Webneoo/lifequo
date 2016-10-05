@@ -10,7 +10,10 @@
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
+  	<div class="item active">
+      <img class="img-responsive" src="../images/home-carousel/lifequo_landscape.jpg" alt="ISO 9001 certification">
+    </div>
+    <div class="item">
       <img class="img-responsive" src="../images/home-carousel/lifequo.jpg" alt="LifeQuo">
     </div>
     <div class="item">
