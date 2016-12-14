@@ -232,17 +232,17 @@
 	                </div>
 	            </div>
 
+           </div>
 
-	            <div class="col-sm-4">
+           <div class="row">
+
+           		<div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/julien.jpg" class="img-responsive img-circle" alt="Julien Mouchantaf | Civil engineer" title="Julien Mouchantaf | Civil engineer">
 	                    <h3>Julien Mouchantaf</h3>
 	                    <h4>Civil engineer</h4>  
 	                </div>
 	            </div>
-           </div>
-
-           <div class="row">
 	           
 	           <div class="col-sm-4">
 	                <div class="team-member">
