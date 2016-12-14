@@ -281,7 +281,7 @@
 	                <div class="team-member">
 	                    <img src="/images/team/richard.jpg" class="img-responsive img-circle" alt="Richard Hilal | IT Manager" title="Richard Hilal | IT Manager">
 	                    <h3>Richard Hilal</h3>
-	                    <h4>IT Manager</h4> 
+	                    <h4>Business Development</h4> 
 	                </div>
 	           </div>
  
