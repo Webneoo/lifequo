@@ -276,6 +276,14 @@
 	                    <h4>Operations manager collection</h4> 
 	                </div>
 	           </div>
+
+	           <div class="col-sm-3">
+	                <div class="team-member">
+	                    <img src="/images/team/reem.jpg" class="img-responsive img-circle" alt="Reem Bou Matar | Operations manager collection" title="Reem Bou Matar | Operations manager collection">
+	                    <h3>Reem Bou Matar</h3>
+	                    <h4>Operations manager collection</h4> 
+	                </div>
+	           </div>
  
            </div>
 	</div>
