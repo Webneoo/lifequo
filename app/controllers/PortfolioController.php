@@ -75,4 +75,11 @@ class PortfolioController extends BaseController {
 		return View::make('portfolio.saifisuites');
 	}
 
+	public function harbor()
+	{
+		return View::make('portfolio.harbor');
+	}
+
+	
+
 }

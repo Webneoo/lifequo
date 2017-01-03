@@ -89,6 +89,12 @@ Route::get('/portfolio/saifi-suites', [
 ]);
 
 
+Route::get('/portfolio/harbor', [
+    'as' => 'harbor_path',
+    'uses' => 'PortfolioController@harbor'
+]);
+
+
 Route::get('/expertise', [
     'as' => 'expertise_path',
     'uses' => 'ExpertiseController@index'
