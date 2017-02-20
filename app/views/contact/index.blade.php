@@ -14,14 +14,14 @@
 					  <i class="fa fa-circle fa-stack-2x"></i>
 					  <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
 					</span>
-					<p style="margin-top:0">+961 1 324 180 <br> +961 1 325 180</p>
+					<p style="margin-top:0">+961 1 970970 <br> +961 1 987970</p>
 				</div>
 				<div class="row">
 					<span class="fa-stack fa-lg">
 					  <i class="fa fa-circle fa-stack-2x"></i>
 					  <i class="fa fa-fax fa-stack-1x fa-inverse"></i>
 					</span>
-					<p>+961 1 326 180</p>
+					<p>+961 1 970970 - ext 102</p>
 				</div>
 				<div class="row">
 					<span class="fa-stack fa-lg">
@@ -37,7 +37,7 @@
 					  <i class="fa fa-circle fa-stack-2x"></i>
 					  <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
 					</span>
-					<p style="margin:8px 0">Park Tower bldg., Block B, <br> Elias Sarkis Avenue, Nasara Street, <br> Achrafieh, Lebanon</p>
+					<p style="margin:8px 0">Lifequo Management SAL, <br> Mina El Hosn, Palladium Blg. <br> Dowtown, Beirut, Lebanon</p>
 				</div>
 			</div>
 		</div>
@@ -84,7 +84,7 @@
 	</div>
 
 	<div class="col-md-6">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d492.3484785570445!2d35.51444356651267!3d33.88675468437674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDUzJzEyLjEiTiAzNcKwMzAnNTMuMCJF!5e0!3m2!1sen!2s!4v1446459647170" class="hidden-xs hidden-sm" width="600" height="450" style="border:0" allowfullscreen></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3938.2865001042605!2d35.49818178481011!3d33.897611105966185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151f16dd62ea6937%3A0x2285cb772837204a!2sMinet+El+Hosn!5e0!3m2!1sen!2slb!4v1487585717735" class="hidden-xs hidden-sm" width="600" height="450" style="border:0" allowfullscreen></iframe>
 		<div class="row">
 			<h2>When can we visit you ?</h2>
             <div class="form-group contact-form">

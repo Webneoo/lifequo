@@ -428,6 +428,109 @@ body { font-family: 'Open Sans', sans-serif; }
 #our-services i { margin-bottom: 10px; }
 .space { height: 300px; }
 
+/*************** Lists ***************/
+
+#our-services ul, ol {
+	list-style: none;
+}
+
+#our-services ul {
+    padding: 0;
+    margin: 0;
+}
+
+#our-services ul.icons-list {
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+#our-services ul.icons-list li, ul.list-unstyled li {
+	margin-bottom: 4px;
+}
+
+#our-services ul.icons-list li i {
+	font-size: 14px;
+	margin-right: 4px;
+	color: #6db738;
+}
+
+
+/*************** Tabs ***************/
+
+.nav-tabs {
+	border-color: #eee;
+}
+
+.nav-tabs>li {
+	float: none;
+	text-align: left;
+}
+
+.nav-tabs > li > a {
+	font-weight: 600;
+	color: #666;
+	padding: 8px 14px;
+	border-radius: 3px 3px 0 0;
+	-webkit-border-radius: 3px 3px 0 0;
+    -moz-border-radius: 3px 3px 0 0;
+    -o-border-radius: 3px 3px 0 0;
+	border: 1px solid #eee;
+	border-bottom: none;
+	box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
+	-o-box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
+	-moz-box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
+  	-webkit-box-shadow: 0 0 15px rgba(0,0,0,.04) inset;
+	transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+.nav-tabs > li > a i {
+	margin-right: 1px;
+    padding-right: 5px;
+}
+
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+	color: #fff;
+	border-color: #fff;
+	background-color: #6db738;
+	box-shadow: 0 0 15px rgba(0,0,0,.1) inset;
+	-o-box-shadow: 0 0 15px rgba(0,0,0,.1) inset;
+	-moz-box-shadow: 0 0 15px rgba(0,0,0,.1) inset;
+  	-webkit-box-shadow: 0 0 15px rgba(0,0,0,.1) inset;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+	border-color: #eee;
+	border-bottom-color: #fff;
+	color: #6db738;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover {
+	box-shadow: 0 0 0 rgba(0,0,0,.1) inset;
+	-o-box-shadow: 0 0 0 rgba(0,0,0,.1) inset;
+	-moz-box-shadow: 0 0 0 rgba(0,0,0,.1) inset;
+  	-webkit-box-shadow: 0 0 0 rgba(0,0,0,.1) inset;
+}
+
+.tab-content {
+	padding: 0;
+	border-top: none;
+}
+
+.tab-content h4 {
+	text-align: center;
+}
+
+.tab-content p {
+	margin-bottom: 15px;
+}
+
+.tab-content p:last-child {
+	margin-bottom: 0;
+}
+
 
 /* -------------- MOBILE APP -------------- */
 #mobile-app {

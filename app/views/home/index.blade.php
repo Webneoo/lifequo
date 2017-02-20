@@ -11,43 +11,37 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
   	<div class="item active">
-      <img class="img-responsive" src="../images/home-carousel/lifequo_landscape.jpg" alt="ISO 9001 certification">
-    </div>
-    <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/lifequo.jpg" alt="LifeQuo">
-    </div>
-    <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/management.jpg" alt="Management & Maintenance Services">
+      <img class="img-responsive" src="../images/home-carousel/1.jpg" alt="Certified System StandardsMarkTM Rules of Use">
       <div class="carousel-caption hidden-xs">
-        <h1>Management & Maintenance Services</h1>
-        <em>Super quality services for entire residential properties and commercial real estate.</em>
+        <h1>Certified System StandardsMarkTM Rules of Use</h1>
       </div>
     </div>
     <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/atwork.jpg" alt="LifeQuo at work">
+      <img class="img-responsive" src="../images/home-carousel/2.jpg" alt="24/7 Management and Maintenance Services">
       <div class="carousel-caption hidden-xs">
-        <h1>Persistant</h1>
+        <h1>24/7 Management and Maintenance Services</h1>
       </div>
     </div>
     <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/quality.jpg" alt="Quality & Cost Control">
+      <img class="img-responsive" src="../images/home-carousel/3.jpg" alt="A Team of Experts">
       <div class="carousel-caption hidden-xs">
-        <h1>Quality & Cost Control</h1>
-        <em>We handle all issues related to quality and cost control.</em>
+        <h1>A Team of Experts</h1>
       </div>
     </div>
     <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/hospitality.jpg" alt="Management of Hospitality Services">
+      <img class="img-responsive" src="../images/home-carousel/4.jpg" alt="Precise Cost Control">
       <div class="carousel-caption hidden-xs">
-        <h1>Management of Hospitality Services</h1>
-        <em>We aim to create a luxurious life style.</em>
+        <h1>Precise Cost Control</h1>
       </div>
     </div>
     <div class="item">
-      <img class="img-responsive" src="../images/home-carousel/working.jpg" alt="LifeQuo working">
+      <img class="img-responsive" src="../images/home-carousel/5.jpg" alt="Near You at All Times">
       <div class="carousel-caption hidden-xs">
-        <h1>Robotics</h1>
+        <h1>Near You at All Times</h1>
       </div>
+    </div>
+    <div class="item">
+      <img class="img-responsive" src="../images/home-carousel/lifequo.jpg" alt="Lifequo">
     </div>
   </div>
 

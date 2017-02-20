@@ -21,129 +21,152 @@
 	</div>
 </div>
 
-<div id="our-services"  class="container">
+<div id="our-services" class="container">
 	<div id="property" class="row">
 		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -535px;"></span><h1>Property management and maintenance</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 380px;"></span>
 		<p>We at LifeQuo are responsible for the upkeep of your entire estate, meeting highest standards to maintain a safe and attractive property. With the required technical expertise, legal know-how, and extensive management skills, we cover all management and maintenance work in residential and commercial complexes and buildings, including flats, chalets, hotel suites, rooms and common areas, as well as offices and other properties.
 		<br>Find all your property management and maintenance needs here at LifeQuo!</p>
 		<p><strong>We offer superior quality services for entire residential properties and commercial real estate.</strong></p>
-		<div class="col-md-6 col-xs-10 col-xs-pull-1 col-md-pull-5 service-desc">
-			<div id="servicesCarousel" class="carousel slide" data-ride="carousel">
-			    <!-- Indicators -->
-			    <ol class="carousel-indicators">
-			      <li data-target="#servicesCarousel" data-slide-to="0" class="active"></li>
-			      <li data-target="#servicesCarousel" data-slide-to="1"></li>
-			      <li data-target="#servicesCarousel" data-slide-to="2"></li>
-			      <li data-target="#servicesCarousel" data-slide-to="3"></li>
-			      <li data-target="#servicesCarousel" data-slide-to="4"></li>
-			    </ol>
-
-			    <!-- Wrapper for slides -->
-			    <div class="carousel-inner" role="listbox">
-
-			      <div class="item active">
-			        <i class="fa fa-users fa-4x hidden-md"></i>
-					<h2>Common Area Services</h2><br>
-					<p>- Manage the accounts and finances of real estate properties <br>
-					- Review and manage maintenance policies to enhance efficiency<br>
-					- Provide preventive, corrective, and condition-based maintenance<br>
-					- Audit and provide consulting for risk management and technical services<br>
-					- Perform building equipment maintenance (assess the functionality ofequipment and offer repair strategies)<br>
-					- Manage third-party property cleaning services for all facilities (elevator, lobby, parking, entrance, etc.)<br>
-					- Ensure pest control</p>
-			      </div>
-
-			      <div class="item">
-			        <i class="fa fa-user-secret fa-4x hidden-md"></i>
-					<h2>Private Area Services</h2><br>
-					<h3><em>Swift Expert Services</em></h3>
-					<em>- Heat, Ventilation and Air Conditioning (HVAC) system<br>
-					- Plumbing<br>
-					- Electrical connections and operations<br>
-					- Paint Works<br>
-					- Carpentries maintenance<br>
-					- Furniture maintenance<br>
-					- Flooring<br>
-					- Steel, Aluminum and Glass<br>
-					- Gypsum Board<br>
-					- Satellite<br>
-					- Pest Control Services<br>
-					- Landscape and Irrigation<br>
-					- Energy Saving Solutions</em><br>
-					<p>- Initial inspection and assessment of your property<br>
-					- Providing maintenance and repairs<br>
-					- Liaising with utility companies <br>
-					- Obtaining cost effect quotes for maintenance<br>
-					- No hidden fees <br>
-					- A personalized service tailored to your needs</p><br>
-					<h3>IT Services:</h3>
-					<p>- Network and connectivity maintenance<br>
-					- Hardware and software troubleshooting<br>
-					- New Hardware and software installation<br>
-					- Backup and recovery solutions<br>
-					- Security and parental control</p>
-			      </div>
-
-			      <div class="item">
-			        <i class="fa fa-cogs fa-4x hidden-md"></i>
-					<h2>Mechanical, Electrical <br> & Plumbing (MEP)</h2><br>
-					<h3>Electrical Works:</h3>
-					<h4>Equipment:</h4>
-					<p>- Parking control equipment</p>
-					<h4>Integrated automation: </h4>
-					<p>- Building alarm system</p>
-					<h4>Electrical:</h4>
-					<p>- Medium voltage cables<br>
-					- Low voltage electrical power<br>
-					- Conductor and cables</p>
-					<h4>Communications:</h4>
-					<p>- Satellite and master antenna TV system<br>
-					- Videophone systems<br>
-					- Structured cabling system</p>
-					<h4>IT services:</h4>
-					<p>- Wireless Internet installation; computer systems; etc. </p>
-					<h4>Electronic safety & security:</h4>
-					<p>- Video surveillance (CCTV)<br>
-					- Addressable fire alarm system<br>
-					- Carbon monoxide detection system</p><br>
-					<h3>Mechanical Works:</h3>
-					<p>- Fire suppression<br>
-					- Heating/Ventilation/AC (HVAC)</p><br>
-					<h3>Plumbing works:</h3>
-					<p>- Plumbing insulation<br>
-					- Domestic water piping<br>
-					- Storm water<br>
-					- Sanitary waste <br>
-					- Vent piping<br>
-					- Soil waste <br>
-					- Storm drainage piping<br>
-					- Cleaning of tanks</p>
-			      </div>
-
-			      <div class="item">
-			        <i class="fa fa-map fa-4x"></i>
-					<h2>Landscaping</h2><br>
-					<p>- Soft/Hard landscaping<br>
-					- Irrigation systems<br>
-					- Regular maintenance</p>
-			      </div>
-
-			      <div class="item">
-			        <i class="fa fa-life-ring fa-4x"></i>
-					<h2>Security, Safety <br>& Hygienic services</h2><br>
-					<p>- Ensure compliance with security and life safety standards<br>
-					- Report any unusual incidents or hazardous conditions<br>
-					- Monitor security desk consoles (employee access control and alarm computer, CCTV video monitors, DVRs)<br>
-					- Assign guards to protect premises from unwanted entry<br>
-					- Security and cleaning</p>
-			      </div>
-
+		<div class="col-md-9 service-desc" style="max-width:990px">
+			<div class="tabs-section">
+			  <!-- Nav Tabs -->
+			  <ul class="nav nav-tabs col-md-4">
+			    <li class="active"><a href="#tab-1" data-toggle="tab"><i class="fa fa-users"></i>Common Area Services</a></li>
+			    <li><a href="#tab-2" data-toggle="tab"><i class="fa fa-user-secret"></i>Private Area Services</a></li>
+			    <li><a href="#tab-3" data-toggle="tab"><i class="fa fa-cogs"></i>Mechanical, Electrical & Plumbing</a></li>
+			    <li><a href="#tab-4" data-toggle="tab"><i class="fa fa-map"></i>Landscaping</a></li>
+			    <li><a href="#tab-5" data-toggle="tab"><i class="fa fa-life-ring"></i>Security, Safety & Hygienic Services</a></li>
+			  </ul>
+			  <!-- Tab panels -->
+			  <div class="tab-content col-md-8">
+			    <!-- Tab Content 1 -->
+			    <div class="tab-pane fade in active" id="tab-1">
+			      <h4>Common Area Services</h4>
+			      <div class="col-md-12">
+				      <ul class="icons-list">
+				        <li><i class="fa fa-check-circle"></i> Manage the accounts and finances of real estate properties </li>
+						<li><i class="fa fa-check-circle"></i> Review and manage maintenance policies to enhance efficiency</li>
+						<li><i class="fa fa-check-circle"></i> Provide preventive, corrective, and condition-based maintenance</li>
+						<li><i class="fa fa-check-circle"></i> Audit and provide consulting for risk management and technical services</li>
+						<li><i class="fa fa-check-circle"></i> Perform building equipment maintenance (assess the functionality ofequipment and offer repair strategies)</li>
+						<li><i class="fa fa-check-circle"></i> Manage third-party property cleaning services for all facilities (elevator, lobby, parking, entrance, etc.)</li>
+						<li><i class="fa fa-check-circle"></i> Ensure pest control</li>
+				      </ul>
+				  </div>
 			    </div>
+			    <!-- Tab Content 2 -->
+			    <div class="tab-pane fade" id="tab-2">
+			    	<h4>Private Area Services</h4>
+			    	<div class="col-md-6">
+				    	<p><strong class="accent-color">Swift Expert Services</strong></p>
+						<ul class="icons-list">
+				        	<li><i class="fa fa-check-circle"></i> Heat, Ventilation and Air Conditioning (HVAC) system </li>
+							<li><i class="fa fa-check-circle"></i>Plumbing</li>
+							<li><i class="fa fa-check-circle"></i>Electrical connections and operations</li>
+							<li><i class="fa fa-check-circle"></i>Paint Works</li>
+							<li><i class="fa fa-check-circle"></i>Carpentries maintenance</li>
+							<li><i class="fa fa-check-circle"></i>Furniture maintenance</li>
+							<li><i class="fa fa-check-circle"></i>Flooring</li>
+							<li><i class="fa fa-check-circle"></i>Steel, Aluminum and Glass</li>
+							<li><i class="fa fa-check-circle"></i>Gypsum Board</li>
+							<li><i class="fa fa-check-circle"></i>Satellite</li>
+							<li><i class="fa fa-check-circle"></i>Pest Control Services</li>
+							<li><i class="fa fa-check-circle"></i>Landscape and Irrigation</li>
+							<li><i class="fa fa-check-circle"></i>Energy Saving Solutions</li>
+							<li><i class="fa fa-check-circle"></i>Initial inspection and assessment of your property</li>
+							<li><i class="fa fa-check-circle"></i>Providing maintenance and repairs</li>
+							<li><i class="fa fa-check-circle"></i>Liaising with utility companies </li>
+							<li><i class="fa fa-check-circle"></i>Obtaining cost effect quotes for maintenance</li>
+							<li><i class="fa fa-check-circle"></i>No hidden fees </li>
+							<li><i class="fa fa-check-circle"></i>A personalized service tailored to your needs</li>
+						</ul>
+					</div>
+					<div class="col-md-6">
+						<p><strong class="accent-color">IT Services</strong></p>
+						<ul class="icons-list">
+							<li><i class="fa fa-check-circle"></i> Network and connectivity maintenance</li>
+							<li><i class="fa fa-check-circle"></i> Hardware and software troubleshooting</li>
+							<li><i class="fa fa-check-circle"></i> New Hardware and software installation</li>
+							<li><i class="fa fa-check-circle"></i> Backup and recovery solutions</li>
+							<li><i class="fa fa-check-circle"></i> Security and parental control</li>
+						</ul>
+					</div>
+			    </div>
+			    <!-- Tab Content 3 -->
+			    <div class="tab-pane fade" id="tab-3">
+			    	<h4>Mechanical, Electrical & Plumbing</h4>
+			    	<div class="col-md-6">
+				      	<p><strong class="accent-color">Electrical Works</strong></p>
+						<ul class="icons-list">
+							<h5>Equipment</h5>
+				        	<li><i class="fa fa-check-circle"></i>Parking control equipment</li>
+							<h5>Integrated automation</h5>
+							<li><i class="fa fa-check-circle"></i>Building alarm system</li>
+							<h5>Electrical</h5>
+							<li><i class="fa fa-check-circle"></i>Medium voltage cables </li>
+							<li><i class="fa fa-check-circle"></i>Low voltage electrical power </li>
+							<li><i class="fa fa-check-circle"></i>Conductor and cables</li>
+							<h5>Communications</h5>
+							<li><i class="fa fa-check-circle"></i>Satellite and master antenna TV system</li>
+							<li><i class="fa fa-check-circle"></i>Videophone systems </li>
+							<li><i class="fa fa-check-circle"></i>Structured cabling system</li>
+							<h5>IT services</h5>
+							<li><i class="fa fa-check-circle"></i>Wireless Internet installation; computer systems; etc.</li>
+							<h5>Electronic safety & security</h5>
+							<li><i class="fa fa-check-circle"></i>Video surveillance (CCTV)</li>
+							<li><i class="fa fa-check-circle"></i>Addressable fire alarm system </li>
+							<li><i class="fa fa-check-circle"></i>Carbon monoxide detection systemHeat, Ventilation and Air Conditioning (HVAC) system </li>
+						</ul>
+					</div>
+					<div class="col-md-6">
+						<p><strong class="accent-color">Mechanical Works</strong></p>
+						<ul class="icons-list">
+							<li><i class="fa fa-check-circle"></i>Fire suppression </li>
+							<li><i class="fa fa-check-circle"></i>Heating/Ventilation/AC (HVAC)</li>
+						</ul>
+						<p><strong class="accent-color">Plumbing works</strong></p>
+						<ul class="icons-list">
+							<li><i class="fa fa-check-circle"></i>Plumbing insulation</li>
+							<li><i class="fa fa-check-circle"></i>Domestic water piping</li>
+							<li><i class="fa fa-check-circle"></i>Storm water</li>
+							<li><i class="fa fa-check-circle"></i>Sanitary waste </li>
+							<li><i class="fa fa-check-circle"></i>Vent piping</li>
+							<li><i class="fa fa-check-circle"></i>Soil waste </li>
+							<li><i class="fa fa-check-circle"></i>Storm drainage piping</li>
+							<li><i class="fa fa-check-circle"></i>Cleaning of tanks</li>
+						</ul>
+					</div>
+			    </div>
+			    <!-- Tab Content 4 -->
+			    <div class="tab-pane fade" id="tab-4">
+			    	<h4>Landscaping</h4>
+			    	<div class="col-md-12">
+				      <ul class="icons-list">
+				        <li><i class="fa fa-check-circle"></i> Soft/Hard landscaping</li>
+						<li><i class="fa fa-check-circle"></i> Irrigation systems</li>
+						<li><i class="fa fa-check-circle"></i> Regular maintenance</li>
+				      </ul>
+				  </div>
+			    </div>
+			    <!-- Tab Content 5 -->
+			    <div class="tab-pane fade" id="tab-5">
+			    	<h4>Security, Safety & Hygienic Services</h4>
+			    	<div class="col-md-12">
+				      <ul class="icons-list">
+				        <li><i class="fa fa-check-circle"></i> Ensure compliance with security and life safety standards</li>
+						<li><i class="fa fa-check-circle"></i> Report any unusual incidents or hazardous conditions</li>
+						<li><i class="fa fa-check-circle"></i> Monitor security desk consoles (employee access control and alarm computer, CCTV video monitors, DVRs)</li>
+						<li><i class="fa fa-check-circle"></i> Assign guards to protect premises from unwanted entry</li>
+						<li><i class="fa fa-check-circle"></i> Security and cleaning</li>
+				      </ul>
+				  </div>
+			    </div>
+			  </div>
+			  <!-- End Tab Panels -->
 			</div>
 		</div>
-		<div class="col-md-6 col-md-push-6">
-			<img class="img-responsive hidden-xs" src="../images/services/property-management.png" alt="Property Management and maintenance">
-			<img class="img-responsive hidden-lg hidden-md hidden-sm" src="../images/services/property-management-xs.png" alt="Property Management and maintenance">
+		<div class="col-md-12">
+			<img class="img-responsive" src="../images/services/property-management.png" alt="Property Management and maintenance">
 		</div>
 	</div>
 
