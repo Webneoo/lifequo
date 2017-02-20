@@ -160,6 +160,19 @@
 	        	<p>Kampaï is an experience that says cheers to refined cuisine and urban chic décor. It toasts the wonderful flavors of Japan and Asia while giving each dish contemporary seasoning and unique identity.</p>
 	        </div>
 		</div>
+		<div class="col-md-6">
+			<div class="port-img">
+				<img class="img-responsive" src="../images/projects/harbor.jpg" alt="Harbor 1504 Project">
+				<div class="overlay">
+		        	<a class="info" href="{{ route('harbor_path') }}"><i class="fa fa-plus fa-2x"></i></a>
+		        </div>
+			</div>
+	        <div class="details">
+	        	<h1>Harbor 1504</h1>
+	        	<span class="line"></span>
+	        	<p>HARBOR 1504 is a luxurious commercial and residential building located in Beirut, al Marfaa. This modern administrative building was designed by an international contracting company and has become one among the finest addresses in downtown Beirut.  </p>
+	        </div>
+		</div>
 	</div>
 </div>
 
