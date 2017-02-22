@@ -16,6 +16,16 @@ Route::get('/', [
     'uses' => 'HomeController@index'
 ]);
 
+Route::get('/blue', [
+    'as' => 'blue_path',
+    'uses' => 'HomeController@blue'
+]);
+
+Route::get('/red', [
+    'as' => 'red_path',
+    'uses' => 'HomeController@red'
+]);
+
 Route::get('/about', [
     'as' => 'about_path',
     'uses' => 'AboutController@index'

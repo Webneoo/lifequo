@@ -17,11 +17,18 @@
     <link rel="stylesheet" href="/css/owl.carousel.css">
     <link rel="stylesheet" href="/css/style.css">
     
+    <script src="/js/jquery.min.js"></script>
   </head>
 
 <body>
 
-    @include('layouts.header')
+    @if(Route::currentRouteName() == 'blue_path')
+        @include('layouts.header-blue')
+    @elsif(Route::currentRouteName() == 'red_path')
+        @include('layouts.header-red')
+    @else
+        @include('layouts.header')
+    @endif
     
     <div id="content">
         @yield('content')
@@ -29,8 +36,6 @@
 
     @include('layouts.footer')
        
-   
-    <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/owl.carousel.min.js"></script>
     <script src="/js/moment-with-locales.js"></script>

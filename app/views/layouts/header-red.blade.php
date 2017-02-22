@@ -4,7 +4,7 @@
 		<div class="container-fluid">
     	<!-- Brand and toggle get grouped for better mobile display -->
 		    <div class="navbar-header">
-		      <a class="navbar-brand hidden-sm" href="{{ route('home_path') }}"><img src="../images/logo.png" alt="LifeQuo Logo" height="50"></a>
+		      <a class="navbar-brand hidden-sm" href="{{ route('red_path') }}"><img src="../images/logo-red.png" alt="LifeQuo Logo" height="50"></a>
 		      <a class="navbar-brand hidden-lg hidden-md hidden-xs" href="{{ route('home_path') }}"><img src="../images/logo.png" alt="LifeQuo Logo" height="30"></a>
 		      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder">
 		      	<span class="sr-only">Toggle navigation</span>
@@ -15,8 +15,8 @@
 		    </div>
 
 		    <ul class="nav navbar-nav navbar-left" style="margin-top:37px">
+		    	<a href="{{ route('home_path') }}"><img src="../images/logo.png" alt="LifeQuo Logo" height="30"></a>
 		    	<a href="{{ route('blue_path') }}"><img src="../images/logo-blue.png" alt="LifeQuo Logo" height="30"></a>
-		    	<a href="{{ route('red_path') }}"><img src="../images/logo-red.png" alt="LifeQuo Logo" height="30"></a>
 		    </ul>
 
 	    	<!-- Collect the nav links, forms, and other content for toggling -->

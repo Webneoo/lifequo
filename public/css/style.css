@@ -1,5 +1,13 @@
 body { font-family: 'Open Sans', sans-serif; }
 
+a {
+	color: #6db738;
+}
+
+a:focus, a:hover {
+	color: #2b4916;
+}
+
 /* -------------- HEADER -------------- */
 #nav-menu { height: 80px; }
 #nav-menu.navbar-default {
@@ -61,7 +69,7 @@ body { font-family: 'Open Sans', sans-serif; }
 	filter: grayscale(0);
 }
 
-#content { margin: 80px auto 50px auto; }
+#content { margin: 80px auto 30px auto; }
 
 
 /* -------------- HOME -------------- */
@@ -405,28 +413,31 @@ body { font-family: 'Open Sans', sans-serif; }
 }
 #our-services p { max-width: 900px; margin: 30px auto;}
 #our-services .row { margin-bottom: 80px; }
-.service-desc {
-	background-color: #fff;
-	position: absolute;
-	padding: 30px 20px 0 20px;
-	z-index: 10;
-	max-width: 570px;
-	margin: 40px 0 0 90px;
-	box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
-	-o-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
-	-moz-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
-  	-webkit-box-shadow: 5px 5px 8px rgba(0,0,0,0.5);
-}
-#servicesCarousel .carousel-inner p:last-child { margin-bottom: 70px; }
-#servicesCarousel .carousel-inner p { margin: 0; }
-#servicesCarousel .carousel-inner h3, #servicesCarousel .carousel-inner h4 { margin: 5px auto; }
-#servicesCarousel .carousel-indicators li { background-color: #333; }
 #our-services .line {
 	width: 100px;
     margin: 20px 0 20px -51px;
 }
 #our-services i { margin-bottom: 10px; }
 .space { height: 300px; }
+.service-btn {
+	height: 130px;
+    width: 100%;
+    font-size: 18px;
+    border: 1px dashed #6db738;
+    background-color: #fff;
+    margin-bottom: 15px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+.service-btn:hover {
+	color: #2b4916;
+}
+#our-services .col-md-4 {
+	padding-left: 0;
+}
+#our-services .modal .row { margin-bottom: 10px; }
+
 
 /*************** Lists ***************/
 

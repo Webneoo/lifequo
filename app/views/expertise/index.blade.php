@@ -13,7 +13,7 @@
 		<span class="line hidden-xs" style="margin:-63px auto auto 120px; background-color:#fff"></span>
 			
 			<div class="row">
-				<div class="col-sm-3">
+				<div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/tony.jpg" class="img-responsive img-circle" alt="Tony Hojeily | Technical manager" title="Tony Hojeily | Technical manager">
 	                    <h3>Tony Hojeily</h3>
@@ -21,7 +21,7 @@
 	                </div>
 	            </div>
 
-				<div class="col-sm-3">
+				<div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/farid.jpg?v=3.0" class="img-responsive img-circle" alt="Farid Abi Aad | Mechanical engineer with 30 years of experience" title="Farid Abi Aad | Mechanical engineer with 30 years of experience">
 	                    <h3>Farid Abi Aad</h3>
@@ -29,7 +29,7 @@
 	                </div>
 	            </div>
 
-	            <div class="col-sm-3">
+	            <div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/assaad.jpg" class="img-responsive img-circle" alt="Assaad Kfoury | Electrical engineer with 20 years of experience" title="Assaad Kfoury | Electrical engineer with 20 years of experience">
 	                    <h3>Assaad Kfoury</h3>
@@ -37,18 +37,19 @@
 	                </div>
 	            </div>
 
+           </div>
 
-	            <div class="col-sm-3">
+           <div class="row">
+
+           		<div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/julien.jpg" class="img-responsive img-circle" alt="Julien Mouchantaf | Civil engineer" title="Julien Mouchantaf | Civil engineer">
 	                    <h3>Julien Mouchantaf</h3>
 	                    <h4>Civil engineer</h4>  
 	                </div>
 	            </div>
-           </div>
-
-           <div class="row">
-           	   <div class="col-sm-3">
+	           
+	           <div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/bassam.jpg" class="img-responsive img-circle" alt="Bassam Hammoud | Engineer" title="Bassam Hammoud | Engineer">
 	                    <h3>Bassam Hammoud</h3>
@@ -56,7 +57,7 @@
 	                </div>
 	           </div>
 
-	           <div class="col-sm-3">
+	           <div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/toni_chidiac.jpg" class="img-responsive img-circle" alt="Toni Chidiac | IT department" title="Toni Chidiac | IT department">
 	                    <h3>Toni Chidiac</h3>
@@ -64,7 +65,8 @@
 	                </div>
 	           </div>
 
-	           <div class="col-sm-3">
+
+	           <div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/corine.jpg" class="img-responsive img-circle" alt="Corine Chadaideh | Accounting department" title="Corine Chadaideh | Accounting department">
 	                    <h3>Corine Chadaideh</h3>
@@ -72,14 +74,22 @@
 	                </div>
 	            </div>
 
-
-	            <div class="col-sm-3">
+	            <div class="col-sm-4">
 	                <div class="team-member">
 	                    <img src="/images/team/reem.jpg" class="img-responsive img-circle" alt="Reem Bou Matar | Operations manager collection" title="Reem Bou Matar | Operations manager collection">
 	                    <h3>Reem Bou Matar</h3>
-	                    <h4>Operations manager collection</h4> 
+	                    <h4>Collection</h4> 
 	                </div>
 	           </div>
+
+	           <div class="col-sm-4">
+	                <div class="team-member">
+	                    <img src="/images/team/richard.jpg" class="img-responsive img-circle" alt="Richard Hilal | IT Manager" title="Richard Hilal | IT Manager">
+	                    <h3>Richard Hilal</h3>
+	                    <h4>Business Operations Manager</h4> 
+	                </div>
+	           </div>
+ 
            </div>
 	</div>
 </div>
