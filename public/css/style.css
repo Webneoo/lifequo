@@ -420,14 +420,14 @@ a:focus, a:hover {
 #our-services i { margin-bottom: 10px; }
 .space { height: 300px; }
 .service-btn {
-	height: 130px;
+	height: 150px;
     width: 100%;
     font-size: 18px;
     border: 1px dashed #6db738;
     background-color: #fff;
     margin-bottom: 15px;
     padding: 5px;
-    display: flex;
+  	
     align-items: center;
 }
 .service-btn:hover {
@@ -437,6 +437,18 @@ a:focus, a:hover {
 	padding-left: 0;
 }
 #our-services .modal .row { margin-bottom: 10px; }
+
+.service-btn p {
+	text-align: center;
+    position: relative;
+    top: 25%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+
 
 
 /*************** Lists ***************/

@@ -32,7 +32,9 @@
 		</div>
 		<div class="col-sm-6">
 			<div class="col-md-4">
-				<button type="button" class="service-btn" data-toggle="modal" data-target="#s1">Common Area Services</button>
+				<div class="service-btn" data-toggle="modal" data-target="#s1">
+					<p><i class="fa fa-users fa-lg"></i><br> Common Area Services</p>
+				</div>
 				<div class="modal fade" id="s1" tabindex="-1" role="dialog" aria-labelledby="s1Label">
 				  <div class="modal-dialog" role="document">
 				    <div class="modal-content">
@@ -59,7 +61,9 @@
 				</div><!-- /.modal -->
 			</div>
 			<div class="col-md-4">
-				<button type="button" class="service-btn" data-toggle="modal" data-target="#s2">Private Area Services</button>
+				<div class="service-btn" data-toggle="modal" data-target="#s2">
+					<p><i class="fa fa-user-secret fa-lg"></i><br> Private Area Services</p>
+				</div>
 				<div class="modal fade" id="s2" tabindex="-1" role="dialog" aria-labelledby="s2Label">
 				  <div class="modal-dialog" role="document">
 				    <div class="modal-content">
@@ -113,7 +117,9 @@
 				</div><!-- /.modal -->
 			</div>
 			<div class="col-md-4">
-				<button type="button" class="service-btn" data-toggle="modal" data-target="#s3">Mechanical, Electrical & Plumbing</button>
+				<div class="service-btn" data-toggle="modal" data-target="#s3">
+					<p><i class="fa fa-plug fa-lg"></i><br> Mechanical, Electrical & Plumbing</p>
+				</div>
 				<div class="modal fade" id="s3" tabindex="-1" role="dialog" aria-labelledby="s3Label">
 				  <div class="modal-dialog" role="document">
 				    <div class="modal-content">
@@ -174,7 +180,9 @@
 				</div><!-- /.modal -->
 			</div>
 			<div class="col-md-4">
-				<button type="button" class="service-btn" data-toggle="modal" data-target="#s4">Landscaping</button>
+				<div class="service-btn" data-toggle="modal" data-target="#s4">
+					<p><i class="fa fa-map fa-lg"></i><br> Landscaping</p>
+				</div>
 				<div class="modal fade" id="s4" tabindex="-1" role="dialog" aria-labelledby="s4Label">
 				  <div class="modal-dialog" role="document">
 				    <div class="modal-content">
@@ -197,7 +205,9 @@
 				</div><!-- /.modal -->
 			</div>
 			<div class="col-md-4">
-				<button type="button" class="service-btn" data-toggle="modal" data-target="#s5">Security, Safety & Hygienic Services</button>
+				<div class="service-btn" data-toggle="modal" data-target="#s5">
+					<p><i class="fa fa-life-ring fa-lg"></i><br>Security, Safety & Hygienic Services</p>
+				</div>
 				<div class="modal fade" id="s5" tabindex="-1" role="dialog" aria-labelledby="s5Label">
 				  <div class="modal-dialog" role="document">
 				    <div class="modal-content">
@@ -228,15 +238,51 @@
 		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -410px;"></span><h1>Quality and cost control</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 250px;"></span>
 		<p>Our team handles all issues related to quality and cost control for all real estate properties and construction sites. We monitor quality and ensure compliance to contracts, governmental requirements and other legal agreements. We track and ensure cost-efficiency throughout all operations pertaining to the management of residential and commercial properties, as well as review, discuss and negotiate all upcoming offers.</p>
 		<div class="col-md-6">
-			<div class="col-md-4"><div class="service-btn">Billing reports and procedures</div></div>
-			<div class="col-md-4"><div class="service-btn">Timely submission of invoices</div></div>
-			<div class="col-md-4"><div class="service-btn">Compliance to all requirements</div></div>
-			<div class="col-md-4"><div class="service-btn">Accuracy of reports</div></div>
-			<div class="col-md-4"><div class="service-btn">Tasks scheduling and monitoring</div></div>
-			<div class="col-md-4"><div class="service-btn">Setting milestone schedules</div></div>
-			<div class="col-md-4"><div class="service-btn">Regulated staff-client contact</div></div>
-			<div class="col-md-4"><div class="service-btn">Problems prevention and solving</div></div>
-			<div class="col-md-4"><div class="service-btn">Six Sigma and PMP certificate-holding staff</div></div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-money fa-lg"></i> <br>Billing reports and procedures</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-hourglass-half fa-lg"></i> <br>Timely submission of invoices</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-asterisk fa-lg"></i> <br>Compliance to all requirements</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-area-chart fa-lg"></i> <br>Accuracy of reports</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-tasks fa-lg"></i> <br>Tasks scheduling and monitoring</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-road fa-lg"></i> <br>Setting milestone schedules</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-compress fa-lg"></i> <br>Regulated staff-client contact</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-exclamation fa-lg"></i> <br>Problems prevention and solving</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-certificate fa-lg"></i> <br>Six Sigma and PMP certificate-holding staff</p>
+				</div>
+			</div>
 		</div>
 		<div class="col-md-6">
 			<img class="img-responsive" src="../images/services/quality-cost.png" alt="Quality and cost control">
@@ -250,14 +296,46 @@
 			<img class="img-responsive" src="../images/services/hospitality.png" alt="Management of hospitality services">
 		</div>
 		<div class="col-md-6">
-			<div class="col-md-4"><div class="service-btn">Management and maintenance</div></div>
-			<div class="col-md-4"><div class="service-btn">Compliance to guest needs</div></div>
-			<div class="col-md-4"><div class="service-btn">Quality and cost control</div></div>
-			<div class="col-md-4"><div class="service-btn">High standards of service</div></div>
-			<div class="col-md-4"><div class="service-btn">Hospitality staff supervision</div></div>
-			<div class="col-md-4"><div class="service-btn">Tasks organization</div></div>
-			<div class="col-md-4"><div class="service-btn">Reports submission</div></div>
-			<div class="col-md-4"><div class="service-btn">Hospitality providers selection</div></div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-cogs fa-lg"></i> <br>Management and maintenance</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-bullseye fa-lg"></i> <br>Compliance to guest needs</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-money fa-lg"></i> <br>Quality and cost control</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-star fa-lg"></i> <br>High standards of service</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-bullhorn fa-lg"></i> <br>Hospitality staff supervision</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-list-ol fa-lg"></i> <br>Tasks organization</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-line-chart fa-lg"></i> <br>Reports submission</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="service-btn">
+					<p><i class="fa fa-black-tie fa-lg"></i> <br>Hospitality providers selection</p>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
