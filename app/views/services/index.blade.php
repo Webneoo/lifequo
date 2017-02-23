@@ -30,7 +30,7 @@
 		<div class="col-sm-6">
 			<img class="img-responsive" src="../images/services/property-management.png" alt="Property Management and maintenance">
 		</div>
-		<div class="col-sm-6">
+		<div class="col-sm-6 serv1">
 			<div class="col-md-4">
 				<div class="service-btn" data-toggle="modal" data-target="#s1">
 					<p><i class="fa fa-users fa-lg"></i><br> Common Area Services</p>

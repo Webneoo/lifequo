@@ -447,7 +447,9 @@ a:focus, a:hover {
     transform: translateY(-50%);
 }
 
-
+.serv1 .service-btn {
+	cursor: pointer;
+}
 
 
 
