@@ -43,6 +43,30 @@ a:focus, a:hover {
 #nav-menu.navbar-default .navbar-toggle:focus .icon-bar { background-color: #6db738; }
 #nav-menu.navbar-default .navbar-collapse { background-color: #fff; }
 
+.blue {
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	margin-top: 35px;
+	background-color: #7071ec;
+}
+
+.red {
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	margin-top: 35px;
+	background-color: #db3dec;
+}
+
+.green {
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	margin-top: 35px;
+	background-color: #6db738;
+}
+
 
 /* -------------- FOOTER -------------- */
 #foot.container-fluid { max-width: 1370px; }

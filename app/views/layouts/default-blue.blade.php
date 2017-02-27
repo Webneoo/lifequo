@@ -22,7 +22,7 @@
 
 <body>
 
-    @include('layouts.header')
+    @include('layouts.header-blue')
     
     <div id="content">
         @yield('content')

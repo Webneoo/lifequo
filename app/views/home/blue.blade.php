@@ -1,4 +1,4 @@
-@extends('layouts.default')
+@extends('layouts.default-blue')
 
 @section('title', 'LifeQuo')
 @section('robots', 'INDEX,FOLLOW')
