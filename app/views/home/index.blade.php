@@ -135,7 +135,7 @@
 	<div class="container">
 		<div class="col-md-7">
 			<h1>Welcome to <br> <strong>LIFE Q<sup style="top:-5px">UO</sup></strong></h1>
-			<p>Here at LifeQuo (sister company of Mouawad Projects), we help offer a superior living experience, from hassle and stress-free property maintenance, to well-organized services, and cost-effective quality management. With qualified experts in all fields, we make managing various projects, properties, and venues a breeze. Sit back, relax and let us do all the work.</p>
+			<p>Here at LifeQuo (sister company of Mouawad Projects), we help offer a superior living experience, from hassle and stress-free facility management, to well-organized services, and cost-effective quality management. With qualified experts in all fields, we make managing various projects, properties, and venues a breeze. Sit back, relax and let us do all the work.</p>
 			<br>
 			<p style="line-height: 1.8;">To get to know us a little bit more, visit <a class="green-btn" href="{{ route('about_path') }}">About <i class="fa fa-arrow-right"></i></a></p>
 		</div>

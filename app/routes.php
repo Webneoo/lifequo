@@ -16,12 +16,12 @@ Route::get('/', [
     'uses' => 'HomeController@index'
 ]);
 
-Route::get('/blue', [
+Route::get('/private-area', [
     'as' => 'blue_path',
     'uses' => 'HomeController@blue'
 ]);
 
-Route::get('/red', [
+Route::get('/brokerage', [
     'as' => 'red_path',
     'uses' => 'HomeController@red'
 ]);

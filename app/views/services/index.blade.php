@@ -21,7 +21,7 @@
 	</div>
 </div>
 
-<div id="our-services" class="container">
+<div class="container our-services">
 	<div id="property" class="row">
 		<span class="line hidden-xs hidden-sm" style="margin: 40px 0 0 -535px;"></span><h1>Property management and maintenance</h1><span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 380px;"></span>
 		<p>We at LifeQuo are responsible for the upkeep of your entire estate, meeting highest standards to maintain a safe and attractive property. With the required technical expertise, legal know-how, and extensive management skills, we cover all management and maintenance work in residential and commercial complexes and buildings, including flats, chalets, hotel suites, rooms and common areas, as well as offices and other properties.
