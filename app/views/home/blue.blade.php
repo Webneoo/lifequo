@@ -27,97 +27,97 @@
 			<h1>Swift Expert Services</h1>
 		<span class="line hidden-xs hidden-sm" style="margin: -68px 0 0 250px;"></span>
 		<div class="col-md-12">
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-rss fa-lg"></i> <br>Heat, Ventilation and Air Conditioning (HVAC) system</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-wrench fa-lg"></i> <br>Plumbing</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-plug fa-lg"></i> <br>Electrical connections and operations</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-paint-brush fa-lg"></i> <br>Paint Works</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-tasks fa-lg"></i> <br>Carpentries maintenance</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-bed fa-lg"></i> <br>Furniture maintenance</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-compress fa-lg"></i> <br>Flooring</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-windows fa-lg"></i> <br>Steel, Aluminum and Glass</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-bars fa-lg"></i> <br>Gypsum Board</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-steam fa-lg"></i> <br>Satellite</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-bug fa-lg"></i> <br>Pest Control Services</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-globe fa-lg"></i> <br>Landscape and Irrigation</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-bolt fa-lg"></i> <br>Energy Saving Solutions</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-search fa-lg"></i> <br>Initial inspection and assessment of your property</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-cogs fa-lg"></i> <br>Providing maintenance and repairs</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-magnet fa-lg"></i> <br>Liaising with utility companies</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-money fa-lg"></i> <br>Obtaining cost effect quotes for maintenance</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-times fa-lg"></i> <br>No hidden fees</p>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-sm-4">
 				<div class="service-btn">
 					<p><i class="fa fa-user fa-lg"></i> <br>A personalized service tailored to your needs</p>
 				</div>
@@ -135,27 +135,27 @@
 		<span class="line hidden-xs" style="margin:-63px auto auto 120px; background-color:#fff"></span>
 	</div>
 	<div class="col-md-12 our-services">
-		<div class="col-md-2 col-md-offset-1 col-sm-4">
+		<div class="col-lg-2 col-lg-offset-1 col-md-4 col-sm-4">
 			<div class="service-btn">
 				<p><i class="fa fa-wifi fa-lg"></i> <br>Network and connectivity maintenance</p>
 			</div>
 		</div>
-		<div class="col-md-2 col-sm-4">
+		<div class="col-lg-2 col-md-4 col-sm-4">
 			<div class="service-btn">
 				<p><i class="fa fa-exclamation fa-lg"></i> <br>Hardware and software troubleshooting</p>
 			</div>
 		</div>
-		<div class="col-md-2 col-sm-4">
+		<div class="col-lg-2 col-md-4 col-sm-4">
 			<div class="service-btn">
 				<p><i class="fa fa-plus fa-lg"></i> <br>New Hardware and software installation</p>
 			</div>
 		</div>
-		<div class="col-md-2 col-sm-4">
+		<div class="col-lg-2 col-md-4 col-sm-4">
 			<div class="service-btn">
 				<p><i class="fa fa-floppy-o fa-lg"></i> <br>Backup and recovery solutions</p>
 			</div>
 		</div>
-		<div class="col-md-2 col-sm-4">
+		<div class="col-lg-2 col-md-4 col-sm-4">
 			<div class="service-btn">
 				<p><i class="fa fa-shield fa-lg"></i> <br>Security and parental control</p>
 			</div>
