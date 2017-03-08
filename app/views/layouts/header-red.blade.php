@@ -17,7 +17,7 @@
 		    </div>
 
 		    <ul class="nav navbar-nav navbar-left hidden-md hidden-sm hidden-xs" style="margin-top:37px">
-		    	<a href="{{ route('home_path') }}"><img src="../images/logo.png" alt="LifeQuo Logo" height="30"></a>
+		    	<a href="{{ route('home_path') }}"><img src="../images/logo.png" alt="LifeQuo Logo" height="30" style="margin-right: 5px;"></a>
 		    	<a href="{{ route('blue_path') }}"><img src="../images/logo-blue.png" alt="LifeQuo Logo" height="30"></a>
 		    </ul>
 
