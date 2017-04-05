@@ -37,7 +37,7 @@
     <div class="item">
       <img class="img-responsive" src="../images/home-carousel/5.jpg" alt="Near You at All Times">
       <div class="carousel-caption hidden-xs">
-        <h1>Near You at All Times</h1>
+        <h1>Always on the move</h1>
       </div>
     </div>
     <div class="item">
