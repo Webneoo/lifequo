@@ -6,8 +6,8 @@
 		    <div class="navbar-header">
 		      <a class="navbar-brand hidden-sm" href="{{ route('home_path') }}"><img src="../images/logo.png" alt="LifeQuo Logo" height="50"></a>
 		      <a class="navbar-brand hidden-lg hidden-md hidden-xs" href="{{ route('home_path') }}"><img src="../images/logo.png" alt="LifeQuo Logo" height="30"></a>
-		      <a href="{{ route('blue_path') }}" class="blue hidden-lg"></a>
-		      <a href="{{ route('red_path') }}" class="red hidden-lg"></a>
+		      <a href="{{ route('blue_path') }}" class="q hidden-lg"><img src="../images/q-blue.png" alt="LifeQuo Logo"></a>
+		      <a href="{{ route('red_path') }}" class="q hidden-lg"><img src="../images/q-purple.png" alt="LifeQuo Logo"></a>
 		      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder">
 		      	<span class="sr-only">Toggle navigation</span>
 		      	<span class="icon-bar"></span>
