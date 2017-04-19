@@ -10,7 +10,7 @@
 	<div class="container">
 		<div class="col-md-7">
 			<h1>LIFE Q<sup style="top:-5px">UO</sup> <br> <strong>the agency</strong></h1>
-			<p>LifeQuo is a full-source facility management, and property maintenance company based in Beirut, Lebanon. Established in 2014, LifeQuo aims to shape the industry and set forth a new quality of life. LifeQuo consolidates and meets all residential and commercial property needs, offering a wide array of services through its professional and specialized team of experts in various corresponding fields.</p>
+			<p>LifeQuo is a full-source facility management, and property maintenance company based in Beirut, Lebanon. Established in 1985 and rebranded as LifeQuo in 2014, the company aims to shape the industry and set forth a new quality of life. LifeQuo consolidates and meets all residential and commercial property needs, offering a wide array of services through its professional and specialized team of experts who have been active for more than 30 years in various corresponding fields.</p>
 			<br><br>
 		</div>
 		<div class="col-md-5 statement">
