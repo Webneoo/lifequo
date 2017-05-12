@@ -16,7 +16,7 @@
 		<div class="col-md-5 statement">
             <h4 class="panel-title"><i class="fa fa-wrench"></i> Mission Statement</h4>
             <div class="panel-body">
-            	<p>LifeQuo reduces chaos and offers a secure, dependable, and specialized source for all property and hospitality management and maintenance services.</p>
+            	<p>LifeQuo main mission, is to reduce chaos and offer a secure, dependable and specialized source for all kind of properties. We do it by providing professional management, maintenance and hospitality services, ensuring and enforcing building rules and regulations, providing a reliably functional, healthy and esthetically well preserved living environment.</p>
             </div>
 
             <h4 class="panel-title"><i class="fa fa-magic"></i> Vision Statement</h4>
