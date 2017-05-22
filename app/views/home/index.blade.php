@@ -25,7 +25,7 @@
     <div class="item">
       <img class="img-responsive" src="../images/home-carousel/3.jpg" alt="A Team of Experts">
       <div class="carousel-caption hidden-xs">
-        <h1>A Team of Experts</h1>
+        <h1>At your Service</h1>
       </div>
     </div>
     <div class="item">
