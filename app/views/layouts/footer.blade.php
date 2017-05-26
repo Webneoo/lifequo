@@ -14,7 +14,13 @@
 		<div class="col-sm-4 col-md-2 privacy">
 			<a href="{{ route('privacy_path') }}">Privacy Policy</a>
 		</div>
-		<div class="col-md-1">
+		<div class="col-sm-1 hidden-xs">
+			<img src="/images/iso-logo.png" class="img-responsive" style="max-height:50px; margin-top: -10px;">
+		</div>
+		<div class="col-xs-12 visible-xs">
+			<img src="/images/iso-logo.png" class="img-responsive" style="max-height:50px; margin-bottom:10px;">
+		</div>
+		<div class="col-sm-1 col-xs-12">
 			<a href="https://www.facebook.com/LifeQuo/" target="_blank" style="margin-right:6px;"><i class="fa fa-facebook fa-2x"></i></a>
 		</div>
 
