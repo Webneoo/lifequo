@@ -4,7 +4,7 @@
 @section('robots', 'INDEX,FOLLOW')
 
 @section('content')
-
+test
 <!--     CAROUSEL     -->
 <div id="homecarousel" class="carousel slide" data-ride="carousel">
 
