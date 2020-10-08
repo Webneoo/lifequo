@@ -20,6 +20,11 @@ class HomeController extends BaseController {
 		return View::make('home.index');
 	}
 
+	public function test()
+	{
+		return View::make('home.test');
+	}
+
 	public function blue()
 	{
 		return View::make('home.blue');
