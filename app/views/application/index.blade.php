@@ -24,7 +24,7 @@
 			</div>
 		</div>
 		<div class="col-md-4 hidden-xs ">
-			<img class="img-responsive" src="../images/phone.png" alt="Phone Application">
+			<img class="img-responsive" src="../images/phone-1.png" alt="Phone Application">
 		</div>
 		<div class="col-md-4 col-xs-12 features">
 			<div class="row">
